@@ -1,2 +1,2 @@
 # SimtechKursant
-Aplikacja kursanta dla Simtechu
+Aplikacja kursanta
