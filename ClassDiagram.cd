@@ -1,0 +1,647 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="AnalyticsController">
+    <Position X="6" Y="11" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\AnalyticsController.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="data" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="AnalyticsData">
+    <Position X="10.5" Y="10.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAQAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Assets\Scripts\AnalyticsData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AudioController">
+    <Position X="1.5" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\AudioController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConnectionController">
+    <Position X="6" Y="20.25" Width="2.75" />
+    <AssociationLine Name="client" Type="DarkRift.Client.Unity.UnityClient" FixedToPoint="true">
+      <Path>
+        <Point X="8.75" Y="20.375" />
+        <Point X="10.5" Y="20.375" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AwAAIAJAAIBDAABAAAMAAABAAAAkAAAACAAABAAABAA=</HashCode>
+      <FileName>Assets\Scripts\ConnectionController.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="client" />
+      <Field Name="streamController" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CrateTouch">
+    <Position X="3.75" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\CrateTouch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlowController">
+    <Position X="1" Y="16.75" Width="3.25" />
+    <AssociationLine Name="moduleController" Type="ModuleController" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="3.75" Y="16.75" />
+        <Point X="3.75" Y="14.227" />
+        <Point X="6" Y="14.227" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="inputController" Type="InputController" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="2.688" Y="16.75" />
+        <Point X="2.688" Y="9.111" />
+        <Point X="6" Y="9.111" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="connectionController" Type="ConnectionController" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="2.938" Y="19.137" />
+        <Point X="2.938" Y="21.625" />
+        <Point X="6" Y="21.625" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="analyticsController" Type="AnalyticsController" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="3.188" Y="16.75" />
+        <Point X="3.188" Y="11.842" />
+        <Point X="6" Y="11.842" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAQAABAAQCCBAAAAAAAAAAAAAAAEAQAAAQICAAAAAIA=</HashCode>
+      <FileName>Assets\Scripts\FlowController.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="uiController" />
+      <Field Name="settingsController" />
+      <Field Name="moduleController" />
+      <Field Name="inputController" />
+      <Field Name="connectionController" />
+      <Field Name="analyticsController" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Highlight">
+    <Position X="11.75" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQMAABAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Highlight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InputBind">
+    <Position X="11.75" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAABABAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\Scripts\InputBind.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InputController">
+    <Position X="6" Y="7.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQIQAAAAAAQAAAAAAAAAAAAAAIABCAAAADAAABAAAA=</HashCode>
+      <FileName>Assets\Scripts\InputController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Instruction">
+    <Position X="6" Y="27" Width="2.25" />
+    <AssociationLine Name="type" Type="InstructionType" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="7.375" Y="27" />
+        <Point X="7.375" Y="25.215" />
+        <Point X="10.5" Y="25.215" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAQAAAAAAAAAAAEAAIAhAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Assets\Scripts\Instruction.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="type" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="InstructionList">
+    <Position X="6" Y="1.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAIQACAAABAAAAAAAAAAAAAAICAABAAAACIg=</HashCode>
+      <FileName>Assets\Scripts\InstructionList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DelayInstruction">
+    <Position X="10.5" Y="27.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAIAEACAAAAAAAAAAAAAAAAAIAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Instructions\DelayInstruction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point">
+    <Position X="9.75" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Instructions\MoveInstruction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoveInstruction">
+    <Position X="10.5" Y="30.25" Width="3.5" />
+    <InheritanceLine Type="Instruction" FixedToPoint="true">
+      <Path>
+        <Point X="7.125" Y="29.454" />
+        <Point X="7.125" Y="30.75" />
+        <Point X="10.5" Y="30.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAABAEACAQAAAAAAAAAAAAECAIAgAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Instructions\MoveInstruction.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="movementType" />
+      <Field Name="approximationType" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Module">
+    <Position X="10.5" Y="12.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACCQAhAAAAAAAAAAAAAAAAIAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Module.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="currentStep" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Gazable">
+    <Position X="14" Y="3.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAQAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Module1\Gazable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gazer">
+    <Position X="16.5" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AgQAAAAAACAAAggAAAAAAABAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Assets\Scripts\Module1\Gazer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Module1">
+    <Position X="15.5" Y="10.5" Width="2.5" />
+    <InheritanceLine Type="Module" FixedFromPoint="true">
+      <Path>
+        <Point X="13" Y="12.924" />
+        <Point X="13.375" Y="12.924" />
+        <Point X="13.375" Y="11.342" />
+        <Point X="15.5" Y="11.342" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAE=</HashCode>
+      <FileName>Assets\Scripts\Module1\Module1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Module1Step1">
+    <Position X="25.75" Y="6.75" Width="1.75" />
+    <InheritanceLine Type="Step" ManuallyRouted="true">
+      <Path>
+        <Point X="21.5" Y="14.25" />
+        <Point X="21.5" Y="13.501" />
+        <Point X="23.39" Y="13.501" />
+        <Point X="23.39" Y="8.136" />
+        <Point X="26.625" Y="8.136" />
+        <Point X="26.625" Y="7.983" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Module1\Module1Step1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Module1Step2">
+    <Position X="25.75" Y="8.25" Width="2.5" />
+    <InheritanceLine Type="Step" ManuallyRouted="true">
+      <Path>
+        <Point X="21.5" Y="14.25" />
+        <Point X="21.5" Y="13.497" />
+        <Point X="23.39" Y="13.497" />
+        <Point X="23.39" Y="11.088" />
+        <Point X="27" Y="11.088" />
+        <Point X="27" Y="10.896" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAEgAAEAABAAAIAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Module1\Module1Step2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Module1Step3">
+    <Position X="25.75" Y="11.25" Width="2.25" />
+    <InheritanceLine Type="Step" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="21.5" Y="14.25" />
+        <Point X="21.5" Y="13.5" />
+        <Point X="25.75" Y="13.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>gAAAAAIAAAAAAAAAAAAAAAAAAAAABAAAAABgAAAAAAE=</HashCode>
+      <FileName>Assets\Scripts\Module1\Module1Step3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Module1Step4">
+    <Position X="25.75" Y="14" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>gAAQAAAAEGgAAEAAAACAIAAQAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Module1\Module1Step4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Module1Step5">
+    <Position X="25.75" Y="17.75" Width="2.5" />
+    <InheritanceLine Type="Step" ManuallyRouted="true">
+      <Path>
+        <Point X="21.5" Y="15.675" />
+        <Point X="21.5" Y="16.583" />
+        <Point X="23.33" Y="16.583" />
+        <Point X="23.33" Y="17.558" />
+        <Point X="27" Y="17.558" />
+        <Point X="27" Y="17.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>gAQAAAAAEEgAAEAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Module1\Module1Step5.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Module1Step6">
+    <Position X="25.75" Y="21" Width="2.5" />
+    <InheritanceLine Type="Step" ManuallyRouted="true">
+      <Path>
+        <Point X="21.5" Y="15.675" />
+        <Point X="21.5" Y="16.58" />
+        <Point X="23.332" Y="16.58" />
+        <Point X="23.332" Y="20.76" />
+        <Point X="27" Y="20.76" />
+        <Point X="27" Y="21" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAEAAAAAAAAAAAAAAAAAAAAAAAABAAAAEAAA=</HashCode>
+      <FileName>Assets\Scripts\Module1\Module1Step6.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Module2">
+    <Position X="15.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Module2\Module2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Module2Step1">
+    <Position X="25.75" Y="23.5" Width="1.5" />
+    <InheritanceLine Type="Step" ManuallyRouted="true">
+      <Path>
+        <Point X="21.5" Y="15.675" />
+        <Point X="21.5" Y="16.58" />
+        <Point X="23.332" Y="16.58" />
+        <Point X="23.332" Y="23.26" />
+        <Point X="26.5" Y="23.26" />
+        <Point X="26.5" Y="23.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Module2\Module2Step1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Module3">
+    <Position X="15.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Module3\Module3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Module3Step1">
+    <Position X="25.75" Y="24.75" Width="1.5" />
+    <InheritanceLine Type="Step" ManuallyRouted="true">
+      <Path>
+        <Point X="21.5" Y="15.675" />
+        <Point X="21.5" Y="16.58" />
+        <Point X="23.332" Y="16.58" />
+        <Point X="23.332" Y="24.627" />
+        <Point X="26.5" Y="24.627" />
+        <Point X="26.5" Y="24.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Module3\Module3Step1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ModuleController">
+    <Position X="6" Y="13" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEABAAAQAABBAAARAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ModuleController.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="currentModule" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PendantController">
+    <Position X="1" Y="27" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AQgAwAwAiCoCAAAABASDAAGCEIAgAIAIAAAGICAACqo=</HashCode>
+      <FileName>Assets\Scripts\PendantController.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="currentInstruction" />
+      <Field Name="robotController" />
+      <Field Name="visualizer" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PendantVisualizer">
+    <Position X="6" Y="31" Width="2.5" />
+    <NestedTypes>
+      <Enum Name="PendantVisualizer.Direction" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\PendantVisualizer.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAgEgAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Scripts\PendantVisualizer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PickUpItem">
+    <Position X="19" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAIACQABAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PickUpItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgramController">
+    <Position X="10.5" Y="36.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAiBICACCAAAAAAEAAAABAgCAAAACAAAgAAACkI=</HashCode>
+      <FileName>Assets\Scripts\ProgramController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgramDebugInstructions">
+    <Position X="14" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ProgramDebugInstructions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RightHandCheker">
+    <Position X="9.75" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAACAA=</HashCode>
+      <FileName>Assets\Scripts\RightHandCheker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RightHandController">
+    <Position X="1.5" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\RightHandController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Robot">
+    <Position X="15.5" Y="34.25" Width="3.25" />
+    <AssociationLine Name="movementType" Type="MovementType" FixedFromPoint="true">
+      <Path>
+        <Point X="15.5" Y="43.812" />
+        <Point X="12" Y="43.812" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AjSEsgiFEiGLcABAwBJEEASCQBAEAgAAAJBaFAIRRAA=</HashCode>
+      <FileName>Assets\Scripts\Robot.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="movementContinuity" />
+      <Field Name="movementType" />
+      <Field Name="positionDirection" />
+      <Field Name="rotationDirection" />
+      <Field Name="targetController" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="RobotController">
+    <Position X="6" Y="34" Width="3.25" />
+    <AssociationLine Name="movementContinuity" Type="MovementContinuity" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="7.625" Y="38.636" />
+        <Point X="7.625" Y="42.812" />
+        <Point X="10.5" Y="42.812" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="movementType" Type="MovementType" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="6.875" Y="38.636" />
+        <Point X="6.875" Y="43.826" />
+        <Point X="10.5" Y="43.826" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAIABIiQQAABAABIAAoEAAACAAAEAggQAAAAEAAAAgE=</HashCode>
+      <FileName>Assets\Scripts\RobotController.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="movementContinuity" />
+      <Field Name="movementType" />
+      <Field Name="pendant" />
+      <Field Name="program" />
+      <Field Name="robot" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Settings">
+    <Position X="10.5" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Assets\Scripts\Settings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SettingsController">
+    <Position X="6" Y="15.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAgAAAIAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SettingsController.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="settings" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SmoothLine">
+    <Position X="3.75" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAEAIAAAAiAAAEAAAEAAAgAAAAAAAAAAAAYAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SmoothLine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Step">
+    <Position X="20.5" Y="14.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Step.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StreamController">
+    <Position X="10.5" Y="22" Width="2.5" />
+    <AssociationLine Name="streamReceiver" Type="StreamReceiver" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="11.812" Y="22" />
+        <Point X="11.812" Y="21.25" />
+        <Point X="15.5" Y="21.25" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="streamSender" Type="StreamSender" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="11.812" Y="23.617" />
+        <Point X="11.812" Y="24.25" />
+        <Point X="15.5" Y="24.25" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAIAAAAAAAAAAAAAAAACCAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Assets\Scripts\StreamController.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="streamReceiver" />
+      <Field Name="streamSender" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="StreamReceiver">
+    <Position X="15.5" Y="20.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAACCAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\StreamReceiver.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="receiver" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="StreamSender">
+    <Position X="15.5" Y="22.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AIwAAAAgABAAAAAAAAAAAAAAAAgAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Assets\Scripts\StreamSender.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="sender" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TextureReceiver">
+    <Position X="20.5" Y="18.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>oAAAABAAAAAAAQAAAAAQBAAAIIAiAggAACAABAAAABA=</HashCode>
+      <FileName>Assets\Scripts\StreamTransfer\Receiver\TextureReceiver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextureSender">
+    <Position X="20.5" Y="23.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>IAAAgBAAAAAAAQJACAAAAAAgAAAwIIgCAAAAAAAQAAA=</HashCode>
+      <FileName>Assets\Scripts\StreamTransfer\Sender\TextureSender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TargetController">
+    <Position X="20.25" Y="34.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>CAAIAAAAAAAAAAAAAAAAAAAAAgAkAAEAAABAAEAAAAE=</HashCode>
+      <FileName>Assets\Scripts\TargetController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIController">
+    <Position X="6" Y="17.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAEAAAAAAAAAAAAAAYAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\UIController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VoiceController">
+    <Position X="21.5" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAACAACAAAAAgAAAAAAAAAIAAAAAAAAAAAABAIAAAA=</HashCode>
+      <FileName>Assets\Scripts\VoiceController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DarkRift.Client.Unity.UnityClient" Collapsed="true">
+    <Position X="10.5" Y="20" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBIBAIQCEAwAAAACAAAZgACAKAAAwCAAEABgjAAEU=</HashCode>
+      <FileName>Assets\Scripts\DarkRift\DarkRift\Plugins\Client\UnityClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="InstructionListElement">
+    <Position X="10.5" Y="26.25" Width="2" />
+    <AssociationLine Name="instruction" Type="Instruction" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="10.5" Y="26.75" />
+        <Point X="7.812" Y="26.75" />
+        <Point X="7.812" Y="27" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-1.54" Y="0.575" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\InstructionList.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="instruction" />
+    </ShowAsAssociation>
+  </Struct>
+  <Enum Name="InstructionType">
+    <Position X="10.5" Y="24.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAQAAAAAAAAAgAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Assets\Scripts\Instruction.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="InstructionMovementType">
+    <Position X="15.5" Y="31.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\Scripts\Instructions\MoveInstruction.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="InstructionApproximationType">
+    <Position X="15.5" Y="30.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Instructions\MoveInstruction.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MovementType">
+    <Position X="10.5" Y="43.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAACAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAQAA=</HashCode>
+      <FileName>Assets\Scripts\RobotController.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MovementDirection">
+    <Position X="10.5" Y="45.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAKAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAI=</HashCode>
+      <FileName>Assets\Scripts\RobotController.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MovementContinuity">
+    <Position X="10.5" Y="42" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAIAAAAAAAAQA=</HashCode>
+      <FileName>Assets\Scripts\RobotController.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
