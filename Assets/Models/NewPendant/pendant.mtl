@@ -1,0 +1,435 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.206520482)
+
+newmtl lambert2SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert3SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert4SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert5SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert6SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert7SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert8SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert9SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert10SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert11SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert12SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert13SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert14SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert15SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert16SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert17SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert18SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert19SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert20SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert21SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert22SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert23SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert24SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert25SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert26SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert27SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert28SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert29SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert30SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert31SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert32SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert33SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert34SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert35SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert36SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert37SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert38SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert39SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert40SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert41SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert42SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert43SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert44SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert45SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl pendant_lambert2SG
+kd 0.96 0 0
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl pendant_lambert3SG
+kd 0.51 0.51 0.51
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl pendant_lambert5SG
+kd 0 0 0
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl pendant_lambert6SG
+kd 0.73 0.73 0.04
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl pendant_lambert7SG
+kd 0.5 0.25 0
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl pendant_lambert8SG
+kd 0.02 0.02 0.02
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl pendant_lambert9SG
+kd 0.03 0.25 1
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl pendant_lambert11SG
+kd 1 1 1
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl pendant_lambert12SG
+kd 0.5 0 0
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl pendant_lambert14SG
+kd 0.2 0.66 0.8
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
