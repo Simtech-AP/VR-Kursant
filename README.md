@@ -1,2 +1,2 @@
-SimtechKursant
+#SimtechKursant
 Aplikacja kursanta
