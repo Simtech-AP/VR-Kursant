@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53c36943c8704b84988cda6b016c9c5f, type: 3}
+  m_Name: RobotMaterials
+  m_EditorClassIdentifier: 
+  yellowMaterial: {fileID: 2100000, guid: 1e092c3d781ca4e4d92d6fe0ab759aeb, type: 2}
+  whiteMaterial: {fileID: 2100000, guid: c9bd14f2aefb0d6408f6a41aa8f9c815, type: 2}

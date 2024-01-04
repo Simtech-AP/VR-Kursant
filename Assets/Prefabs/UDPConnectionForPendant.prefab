@@ -1,0 +1,201 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7374088362395189371
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7374088362395189368}
+  - component: {fileID: 7374088362395189366}
+  - component: {fileID: 1636154129}
+  - component: {fileID: 7374088363112797841}
+  m_Layer: 0
+  m_Name: UDPConnectionForPendant
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7374088362395189368
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7374088362395189371}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7374088362395189366
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7374088362395189371}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ac3c868938267644a93f9ea5e051e83, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ip: 11.200.1.222
+  port: 18801
+  messagesToButtons:
+  - buttonId: 53
+    button: DeadmanL
+  - buttonId: 54
+    button: DeadmanR
+  - buttonId: 55
+    button: ESTOP
+  - buttonId: 0
+    button: MENU
+  - buttonId: 11
+    button: "G\xD3RA"
+  - buttonId: 12
+    button: LEWO
+  - buttonId: 13
+    button: PRAWO
+  - buttonId: 14
+    button: "D\xD3\u0141"
+  - buttonId: 2
+    button: ESCAPE
+  - buttonId: 1
+    button: PROGRAMLIST
+  - buttonId: 3
+    button: ENABLEMOVE
+  - buttonId: 4
+    button: BACKSPACE
+  - buttonId: 5
+    button: PLAY
+  - buttonId: 6
+    button: STOP
+  - buttonId: 7
+    button: RESET
+  - buttonId: 8
+    button: STEPMODE
+  - buttonId: 9
+    button: SPEEDUP
+  - buttonId: 10
+    button: SPEEDDOWN
+  - buttonId: 15
+    button: 7
+  - buttonId: 21
+    button: 8
+  - buttonId: 27
+    button: 9
+  - buttonId: 16
+    button: 4
+  - buttonId: 22
+    button: 5
+  - buttonId: 28
+    button: 6
+  - buttonId: 17
+    button: 1
+  - buttonId: 23
+    button: 2
+  - buttonId: 29
+    button: 3
+  - buttonId: 18
+    button: 0
+  - buttonId: 25
+    button: .
+  - buttonId: 31
+    button: '-'
+  - buttonId: 33
+    button: RECORD
+  - buttonId: 43
+    button: ENTER
+  - buttonId: 34
+    button: -X
+  - buttonId: 44
+    button: +X
+  - buttonId: 35
+    button: -Y
+  - buttonId: 45
+    button: +Y
+  - buttonId: 36
+    button: -Z
+  - buttonId: 46
+    button: +Z
+  - buttonId: 37
+    button: -X rot
+  - buttonId: 47
+    button: +X rot
+  - buttonId: 38
+    button: +Y rot
+  - buttonId: 48
+    button: -Y rot
+  - buttonId: 39
+    button: +Z rot
+  - buttonId: 49
+    button: -Z rot
+  - buttonId: 40
+    button: -J7
+  - buttonId: 50
+    button: +J7
+  - buttonId: 20
+    button: HELP
+  - buttonId: 25
+    button: MOVETO
+  - buttonId: 31
+    button: TOOLON
+  - buttonId: 19
+    button: TELEPORT
+  - buttonId: 26
+    button: JUMPLINE
+  - buttonId: 32
+    button: TOOLOFF
+  - buttonId: 41
+    button: TOOLNUMBER
+  - buttonId: 51
+    button: COORD
+  - buttonId: 42
+    button: HELP
+  - buttonId: 52
+    button: KEYBOARD
+  connectionErrorUI: {fileID: 0}
+  pilotIpEnd: 0
+  touchScreenPendant: 0
+--- !u!114 &1636154129
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7374088362395189371}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd485f962cde84446b20fb761b481e52, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  port: 18802
+--- !u!114 &7374088363112797841
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7374088362395189371}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e27c76e3fde6eb748bbfa2f59376a384, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  message: 00000000000000000000
+  messagesLength:
+  - id: 10
+    length: 12
+  - id: 1
+    length: 3
+  - id: 2
+    length: 3
+  - id: 9
+    length: 3
+  receiver: {fileID: 7374088362395189366}

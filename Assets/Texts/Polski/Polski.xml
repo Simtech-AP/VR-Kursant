@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body>
+<steps>
+<M01S01S01>
+<Title>Witaj w module 1</Title>
+<Text>
+# Dotknij kciukiem trackpad na kontrolerze, aby go aktywować.
+# Potwierdź wykonanie kroku naciskając zielony przycisk Next Step.
+</Text>
+</M01S01S01>
+<M01S01S02>
+<Title>Technologia VR</Title>
+<Text>
+# Zwróć uwagę na podświetlone przedmioty rozmieszczone wokół Ciebie.
+</Text>
+</M01S01S02>
+<M01S01S03>
+<Title>Technologia VR</Title>
+<Text>
+# Zbliż dłoń do drewnianej skrzyni.
+# Nciśnij spust lub gładzik i przenieś skrzynię na podłogę.
+</Text>
+</M01S01S03>
+<M01S01S04>
+<Title>Technologia VR</Title>
+<Text>
+# Naciśnij podświetlone przyciski na pilocie.
+</Text>
+</M01S01S04>
+<M01S01S05>
+<Title>Moduł 1 zakończony</Title>
+<Text>
+# Zaczekaj na trenera.
+</Text>
+</M01S01S05>
+<M02S01S01>
+<Title>Witaj w module 2</Title>
+<Text>
+# Po wysłuchaniu instrukcji przejdź do kolejnego kroku.
+</Text>
+</M02S01S01>
+<M02S01S02>
+<Title>Bezpieczeństwo pracy</Title>
+<Text>
+# Zlokalizuj wejściową bramkę bezpieczeństwa.
+</Text>
+</M02S01S02>
+<M02S01S03>
+<Title>Bezpieczeństwo pracy</Title>
+<Text>
+# Zlokalizuj pulpit sterowniczy.
+</Text>
+</M02S01S03>
+<M02S01S04>
+<Title>Bezpieczeństwo pracy</Title>
+<Text>
+# Zlokalizuj kolumnę świetlną.
+</Text>
+</M02S01S04>
+<M02S01S05>
+<Title>Bezpieczeństwo pracy</Title>
+<Text>
+# Zlokalizuj szafę robota.
+</Text>
+</M02S01S05>
+<M02S01S06>
+<Title>Bezpieczeństwo pracy</Title>
+<Text>
+# Zlokalizuj skrzynkę z kłódką.
+</Text>
+</M02S01S06>
+<M02S01S07>
+<Title>Bezpieczeństwo pracy</Title>
+<Text>
+# Zlokalizuj wyłącznik awaryjny E-Stop na szafce robota.
+# Zlokalizuj wyłącznik awaryjny E-Stop na kasetce przy bramce.
+# Zlokalizuj wyłącznik awaryjny E-Stop na pilocie.
+</Text>
+</M02S01S07>
+<M02S02S01>
+<Title>E-STOP</Title>
+<Text>
+# Wciśnij dowolny przycisk awaryjny E-Stop.
+# Zwróć uwagę czy robot się zatrzymał.
+</Text>
+</M02S02S01>
+<M02S02S02>
+<Title>E-STOP</Title>
+<Text>
+# Sprawdź status lampek na przyciskach na pulpicie.
+# Sprawdź status lampek na kolumnie świetlnej.
+# Sprawdź status lampek na kasetce przy bramce.
+</Text>
+</M02S02S02>
+<M02S02S03>
+<Title>E-STOP</Title>
+<Text>
+# Wyciągnij wciśnięte wyłączniki awaryjne E-Stop.
+</Text>
+</M02S02S03>
+<M02S02S04>
+<Title>E-STOP</Title>
+<Text>
+# Potwierdź alarm związany z bezpieczeństwem celi przyciskiem SAFETY RESET.
+</Text>
+</M02S02S04>
+<M02S02S05>
+<Title>E-STOP</Title>
+<Text>
+# Potwierdź alarmy niezwiązane z bezpieczeństwem celi przyciskiem ALARMS RESET.
+</Text>
+</M02S02S05>
+<M02S02S06>
+<Title>E-STOP</Title>
+<Text>
+# Włącz tryb automatyczny celi zrobotyzowanej przyciskiem START.
+</Text>
+</M02S02S06>
+<M02S03S01>
+<Title>Bezpieczeństwo celi</Title>
+<Text>
+# Zatrzymaj produkcję przyciskiem STOP.
+# Upewnij się, że robot się zatrzymał.
+</Text>
+</M02S03S01>
+<M02S03S02>
+<Title>Bezpieczeństwo celi</Title>
+<Text>
+# Przekręć kluczyk w stacyjce szafy robota w pozycję T1.
+</Text>
+</M02S03S02>
+<M02S03S03>
+<Title>Bezpieczeństwo celi</Title>
+<Text>
+# Załóż na głowę czapkę ochronną.
+</Text>
+</M02S03S03>
+<M02S03S04>
+<Title>Bezpieczeństwo celi</Title>
+<Text>
+# Otwórz bramkę wejściową.
+</Text>
+</M02S03S04>
+<M02S03S05>
+<Title>Bezpieczeństwo celi</Title>
+<Text>
+# Weź kłódkę ze skrzynki Lock Box znajdującej się na szafie robota.
+# Załóż kłódkę na zamek bramki.
+</Text>
+</M02S03S05>
+<M02S03S06>
+<Title>Bezpieczeństwo celi</Title>
+<Text>
+# Naciśnij przycisk “Teleport”, aby przenieść się do środka celi.
+</Text>
+</M02S03S06>
+<M02S03S07>
+<Title>Moduł 2 zakończony</Title>
+<Text>
+# Zaczekaj na trenera.
+</Text>
+</M02S03S07>
+<M03S01S01>
+<Title>Witaj w module 3</Title>
+<Text>
+# Po wysłuchaniu instrukcji przejdź do kolejnego kroku.
+</Text>
+</M03S01S01>
+<M03S01S02>
+<Title>Przycisk czuwaka</Title>
+<Text>
+# Sprawdź działanie przycisków czuwaka. 
+# Naciśnij ACK na klawiaturze pilota, aby przejść do kolejnego kroku.
+</Text>
+</M03S01S02>
+<M03S01S03>
+<Title>Przycisk czuwaka</Title>
+<Text>
+# Wciśnij i trzymaj dowolny przycisk czuwaka.
+# Potwierdź wciśnięcie czuwaka przyciskiem RESET na klawiaturze pilota.
+</Text>
+</M03S01S03>
+<M03S02S01>
+<Title>Ruch przegubowy</Title>
+<Text>
+# Naciśnij przycisk COORD aby przełączyć układ współrzędnych.
+</Text>
+</M03S02S01>
+<M03S02S02>
+<Title>Ruch przegubowy</Title>
+<Text>
+# Przyciskiem COORD wybierz układ JOINT.
+</Text>
+</M03S02S02>
+<M03S02S03>
+<Title>Ruch przegubowy</Title>
+<Text>
+# Wciśnij i przytrzymaj przycisk czuwaka.
+# Skasuj błędy przyciskiem RESET.
+# Poruszaj osią 1 za pomocą przycisków J1- i J1+.
+</Text>
+</M03S02S03>
+<M03S02S04>
+<Title>Ruch przegubowy</Title>
+<Text>
+# Przestaw oś 2 za pomocą przycisków J2- i J2+.
+# Przestaw oś 3 za pomocą przycisków J3- i J3+.
+# Przestaw oś 4 za pomocą przycisków J4- i J4+.
+# Przestaw oś 5 za pomocą przycisków J5- i J5+.
+# Przestaw oś 6 za pomocą przycisków J6- i J6+.
+</Text>
+</M03S02S04>
+<M03S03S01>
+<Title>Limity osi</Title>
+<Text>
+# Przestaw dowolną oś robota do osiągnięcia limitu.
+</Text>
+</M03S03S01>
+<M03S03S02>
+<Title>Limity osi</Title>
+<Text>
+# Skasuj błąd przyciskiem RESET na pilocie.
+# Przestaw oś robota w kierunku przeciwnym do limitu.
+</Text>
+</M03S03S02>
+<M03S04S01>
+<Title>Ruch liniowy</Title>
+<Text>
+# Przyciskiem COORD wybierz układ BASE.
+</Text>
+</M03S04S01>
+<M03S04S02>
+<Title>Ruch liniowy</Title>
+<Text>
+# Poruszaj chwytakiem za pomocą przycisków X- i X+.
+</Text>
+</M03S04S02>
+<M03S04S03>
+<Title>Ruch liniowy</Title>
+<Text>
+# Poruszaj chwytakiem za pomocą przycisków Y- i Y+.
+</Text>
+</M03S04S03>
+<M03S04S04>
+<Title>Ruch liniowy</Title>
+<Text>
+# Poruszaj chwytakiem za pomocą przycisków Z- i Z+.
+</Text>
+</M03S04S04>
+<M03S04S05>
+<Title>Ruch liniowy</Title>
+<Text>
+# Obróć robota względem osi X przyciskami Rx- lub Rx+.
+</Text>
+</M03S04S05>
+<M03S04S06>
+<Title>Ruch liniowy</Title>
+<Text>
+# Obróć robota względem osi Y przyciskami Ry- lub Ry+.
+# Obróć robota względem osi Z przyciskami Rz- lub Rz+.
+</Text>
+</M03S04S06>
+<M03S04S07>
+<Title>Moduł 3 zakończony</Title>
+<Text>
+# Za chwilę zostanie uruchomiony kolejny moduł.
+</Text>
+</M03S04S07>
+<M04S01S01>
+<Title>Witaj w module 4</Title>
+<Text>
+# Po wysłuchaniu informacji, potwierdź wykonanie kroku.
+</Text>
+</M04S01S01>
+<M04S01S02>
+<Title>Prosta paletyzacja</Title>
+<Text>
+# Zamknij chwytak przyciskiem TOOL ON. 
+# Otwórz chwytak przyciskiem TOOL OFF. 
+# Pozostaw chwytak w pozycji otwartej.
+</Text>
+</M04S01S02>
+<M04S01S03>
+<Title>Prosta paletyzacja</Title>
+<Text>
+# Przyciskiem COORD wybierz układ typu JOINT.
+# Ustaw chwytak robota w zaznaczonej przestrzeni nad paletą.
+# Chwytak robota skieruj szczękami w dół.
+</Text>
+</M04S01S03>
+<M04S01S04>
+<Title>Prosta paletyzacja</Title>
+<Text>
+# Przyciskiem COORD wybierz układ typu BASE. 
+# Naciskając przycisk Z- ustaw chwytak robota w pozycji pobrania palety.
+</Text>
+</M04S01S04>
+<M04S01S05>
+<Title>Prosta paletyzacja</Title>
+<Text>
+# Zamknij chwytak przyciskiem TOOL ON.
+</Text>
+</M04S01S05>
+<M04S01S06>
+<Title>Prosta paletyzacja</Title>
+<Text>
+# Naciskając przycisk Z+ ustaw chwytak robota nad przenośnikiem.
+</Text>
+</M04S01S06>
+<M04S01S07>
+<Title>Prosta paletyzacja</Title>
+<Text>
+# Przyciskiem COORD wybierz układ typu JOINT.
+# Naciskając przycisk J1- ustaw paletę nad drugim przenośnikiem.
+</Text>
+</M04S01S07>
+<M04S01S08>
+<Title>Prosta paletyzacja</Title>
+<Text>
+# Przyciskiem COORD wybierz układ typu BASE. 
+# Naciskając przycisk Z- postaw paletę delikatnie na przenośniku.
+</Text>
+</M04S01S08>
+<M04S01S09>
+<Title>Prosta paletyzacja</Title>
+<Text>
+# Otwórz chwytak przyciskiem TOOL OFF. 
+# Naciskając przycisk Z+ przestaw chwytak robota nad przenośnik.
+</Text>
+</M04S01S09>
+<M04S01S10>
+<Title>Prosta paletyzacja</Title>
+<Text>
+# Ustaw robota w zaznaczonym obszarze.
+</Text>
+</M04S01S10>
+<M04S01S11>
+<Title>Moduł 4 zakończony</Title>
+<Text>
+# Za chwilę zostanie uruchomiony kolejny moduł.
+</Text>
+</M04S01S11>
+<M05S01S01>
+<Title>Witaj w module 5</Title>
+<Text>
+# Po wysłuchaniu informacji, potwierdź wykonanie kroku.
+</Text>
+</M05S01S01>
+<M05S01S02>
+<Title>Prosty program - tryb krokowy</Title>
+<Text>
+# Naciśnij na klawiaturze przycisk MENU i wybierz kolejno "PROGRAM" -> "NEW". Zatwierdź przyciskiem ENTER. 
+# Zaznacz pole "NAME", naciśnij KEYBOARD i wpisz nazwę nowego programu. Zamknij klawiaturę i zatwierdź przyciskiem ENTER.
+</Text>
+</M05S01S02>
+<M05S01S03>
+<Title>Prosty program - tryb krokowy</Title>
+<Text>
+# Wstaw punkt przegubowy. Naciśnij MENU i wybierz "INSERT POINT" -> "J - JOINT".
+</Text>
+</M05S01S03>
+<M05S01S04>
+<Title>Prosty program - tryb krokowy</Title>
+<Text>
+# Wstaw 3 puste wiersze poniżej wybierając MENU, "EDIT" -> "INSERT LINES BELOW". Wpisz wartość 3, zaznacz OK i naciśnij ENTER.
+</Text>
+</M05S01S04>
+<M05S01S05>
+<Title>Prosty program - tryb krokowy</Title>
+<Text>
+# Ustaw prędkość robota na 80% przyciskami SPEED UP i SPEED DOWN.
+# Zmień pozycję robota.
+</Text>
+</M05S01S05>
+<M05S01S06>
+<Title>Prosty program - tryb krokowy</Title>
+<Text>
+# Ustaw kursor w pustym wierszu i wstaw punkt liniowy. Naciśnij MENU, "INSERT POINT" -> "L - LINEAR".
+</Text>
+</M05S01S06>
+<M05S01S07>
+<Title>Prosty program - tryb krokowy</Title>
+<Text>
+# Przestaw ramiona robota o dowolną odległość.
+# Ustaw kursor w kolejnym pustym wierszu i wstaw punkt liniowy, naciśnij MENU, "INSERT POINT" -> "L - LINEAR".
+</Text>
+</M05S01S07>
+<M05S01S08>
+<Title>Prosty program - tryb krokowy</Title>
+<Text>
+# Skopiuj pierwszy wiersz, naciśnij MENU, "EDIT" -> "COPY".
+# Wklej punkt w ostatnim pustym wierszu, naciśnij MENU, "EDIT" -> "PASTE".
+</Text>
+</M05S01S08>
+<M05S01S09>
+<Title>Prosty program - tryb krokowy</Title>
+<Text>
+# Przyciskiem SPEED DOWN zmniejsz prędkość robota do 50%.
+# Przyciskiem STEP MODE włącz tryb krokowy.
+</Text>
+</M05S01S09>
+<M05S01S10>
+<Title>Prosty program - tryb krokowy</Title>
+<Text>
+# Wciśnij i trzymaj przycisk czuwaka, następnie potwierdź RESET aby odblokować napędy robota.
+# Pozostając w trybie krokowym naciśnij przycisk PLAY aby uruchomić program.
+</Text>
+</M05S01S10>
+<M05S01S11>
+<Title>Prosty program - tryb krokowy</Title>
+<Text>
+# Pozostając w trybie krokowym ponownie naciśnij przycisk PLAY, aby przejść do kolejnego punktu w programie.
+</Text>
+</M05S01S11>
+<M05S01S12>
+<Title>Prosty program - tryb krokowy</Title>
+<Text>
+# Kontynuuj wykonywanie programu w trybie krokowym aż do ostaniego wiersza.
+</Text>
+</M05S01S12>
+<M05S02S01>
+<Title>Prosty program - tryb ciągły</Title>
+<Text>
+# Wyłącz tryb krokowy przyciskiem STEP MODE 
+# Naciśnij przycisk PLAY aby uruchomić program.
+</Text>
+</M05S02S01>
+<M05S02S02>
+<Title>Prosty program - tryb ciągły</Title>
+<Text>
+# Pozostając w trybie ciągłym ponownie uruchom program przyciskiem PLAY. 
+# Przyciskami SPEED UP i SPEED DOWN zmieniaj prędkość robota w trakcie wykonywania programu.
+</Text>
+</M05S02S02>
+<M05S02S03>
+<Title>Prosty program - tryb ciągły</Title>
+<Text>
+# Pozostając w trybie ciągłym ponownie uruchom program przyciskiem PLAY. 
+# W trakcie ruchu robota naciśnij przycisk STOP.
+# Przyciskiem PLAY wznów wykonywanie programu, a następnie poczekaj na jego zakończenie.
+</Text>
+</M05S02S03>
+<M05S02S04>
+<Title>Prosty program - tryb ciągły</Title>
+<Text>
+# Zaznacz kursorem trzeci wiersz w programie.
+#  Naciskając przycisk MOVE TO przestaw robota do zaznaczonego punktu.
+</Text>
+</M05S02S04>
+<M05S02S05>
+<Title>Prosty program - tryb ciągły</Title>
+<Text>
+# Zaznacz kursorem pierwszy wiersz i naciśnij MOVE TO.
+</Text>
+</M05S02S05>
+<M05S03S01>
+<Title>Parametryzacja punktów</Title>
+<Text>
+# Ustaw kursor na drugim wierszu.
+# Strzałkami prawo i lewo zaznacz wartość po prawej stronie symbolu APX. 
+# Zmień wartość parametru APX na 10.
+</Text>
+</M05S03S01>
+<M05S03S02>
+<Title>Parametryzacja punktów</Title>
+<Text>
+# Ustaw kursor na trzecim wierszu. 
+# Strzałkami prawo i lewo zaznacz wartość po prawej stronie symbolu SPD. 
+# Zmień ją na 500mm/s, jeśli jest to punkt liniowy. Jeśli przegubowy zmień na 45%.
+</Text>
+</M05S03S02>
+<M05S03S03>
+<Title>Parametryzacja punktów</Title>
+<Text>
+# Przestaw robota w dowolne miejsce w przestrzeni.
+# Ustaw kursor na ostatnim wierszu i nadpisz współrzędne tego punktu przyciskiem REC.
+</Text>
+</M05S03S03>
+<M05S03S04>
+<Title>Parametryzacja punktów</Title>
+<Text>
+# Ustaw kursor na drugim wierszu.
+# Strzałkami zaznacz literę “L”.
+# Zmień typ punktu z liniowego na przegubowy. Naciśnij ENTER.
+</Text>
+</M05S03S04>
+<M05S03S05>
+<Title>Parametryzacja punktów</Title>
+<Text>
+# Pozostajac w trybie ciągłym, uruchom program robota naciskając przycisk PLAY.
+</Text>
+</M05S03S05>
+<M05S04S01>
+<Title>Kopia zapasowa</Title>
+<Text>
+# Naciśnij MENU, "PROGRAM" -> "DUPLICATE...".
+# Wybierz program do duplikacji klikając ENTER, W okienku wpisz nazwę, np. TEST5 i zatwierdź.  
+</Text>
+</M05S04S01>
+<M05S04S02>
+<Title>Kopia zapasowa</Title>
+<Text>
+# Naciśnij MENU, "PROGRAM" -> "REMOVE...", wybierz program który chcesz usunąć.
+# Zatwierdź wybór przyciskiem ENTER.
+</Text>
+</M05S04S02>
+<M05S05S01>
+<Title>Zaawansowana paletyzacja</Title>
+<Text>
+# Naciśnij MENU, "PROGRAM" -> "NEW".
+# Naciśnij przycisk KEYBOARD i wpisz nazwę PALLET1. Zatwierdź ENTER.
+</Text>
+</M05S05S01>
+<M05S05S02>
+<Title>Zaawansowana paletyzacja</Title>
+<Text>
+# Wstaw punkt przebugowy. Naciśnij MENU, "INSERT POINT" -> "J - JOINT". 
+# Zmień wartość APX na 10.
+</Text>
+</M05S05S02>
+<M05S05S03>
+<Title>Zaawansowana paletyzacja</Title>
+<Text>
+# Wstaw 10 pustych wierszy. Naciśnij MENU, "EDIT" -> "INSERT LINES BELOW".
+</Text>
+</M05S05S03>
+<M05S05S04>
+<Title>Zaawansowana paletyzacja</Title>
+<Text>
+# Przyciskiem COORD przełącz układ na JOINT.
+# Ustaw chwytak nad paletą w zaznaczonym miejscu.
+# Ustaw chwytak robota pionowo w dół, w kierunku palety.
+</Text>
+</M05S05S04>
+<M05S05S05>
+<Title>Zaawansowana paletyzacja</Title>
+<Text>
+# Wstaw nowy punkt. Naciśnij MENU, "INSERT POINT" -> "J - JOINT".
+</Text>
+</M05S05S05>
+<M05S05S06>
+<Title>Zaawansowana paletyzacja</Title>
+<Text>
+# Przyciskiem COORD przełącz układ na BASE.
+# Naciskaj przyciski Z- i Z+ ustaw robota w pozycji pobrania tak, aby szczęki chwytaka znalazły się między belkami palety.
+</Text>
+</M05S05S06>
+<M05S05S07>
+<Title>Zaawansowana paletyzacja</Title>
+<Text>
+# Wstaw nowy punkt. Naciśnij MENU, "INSERT POINT" -> "L - LINEAR".
+# Zmień prędkość dojazdu do punktu - SPD - na 500mm/s.
+# Zmień aproksymację APX na 0.
+</Text>
+</M05S05S07>
+<M05S05S08>
+<Title>Zaawansowana paletyzacja</Title>
+<Text>
+# Naciśnij przycisk TOOL ON aby zamknąć chwytak.
+# Dodaj instrukcję zamykania chwytaka w kolejnym wierszu. Naciśnij MENU, "INSTRUCTIONS" -> "TOOL ON".
+</Text>
+</M05S05S08>
+<M05S05S09>
+<Title>Zaawansowana paletyzacja</Title>
+<Text>
+# Nasiśnij COORD aby przełączyć układ na BASE.
+# Naciśnij Z+ i odjedź z paletą pionowo w górę do zaznaczonego obszaru.
+</Text>
+</M05S05S09>
+<M05S05S10>
+<Title>Zaawansowana paletyzacja</Title>
+<Text>
+# Utwórz nowy punkt. Naciśnij MENU, "INSERT POINT" -> "L - LINEAR".
+# Zmień prędkość SPD na 500mm/s.
+# Zmień aproksymację APX na 50.
+</Text>
+</M05S05S10>
+<M05S05S11>
+<Title>Zaawansowana paletyzacja</Title>
+<Text>
+# Naciśnij COORD i przełącz układ na JOINT.
+# Przyciskiem J1- przestaw robota, tak aby znajdował się w połowie drogi między przenośnikami, przodem do Ciebie.
+# Zapisz punkt pośredni w pustym wierszu. Naciśnij MENU, "INSERT POINT" -> "J - JOINT".
+</Text>
+</M05S05S11>
+<M05S05S12>
+<Title>Zaawansowana paletyzacja</Title>
+<Text>
+# Przyciskiem COORD przełącz układ na JOINT.
+# Przyciskiem J1- Przestaw robota, tak aby znajdował się bezpośrednio nad drugim przenośnikiem.
+# Zapisz aktualną pozycję. Naciśnij MENU, "INSERT POINT" - "J - JOINT". 
+# Zmień prędkość SPD na 100% 
+# Zmień aproksymację APX na 20.
+</Text>
+</M05S05S12>
+<M05S05S13>
+<Title>Zaawansowana paletyzacja</Title>
+<Text>
+# Przyciskiem COORD przełącz układ na BASE
+# Przyciskiem Z- ustaw robota w pozycji odłożenia palety tak, aby paleta delikatnie dotknęła przenośnik.
+</Text>
+</M05S05S13>
+<M05S05S14>
+<Title>Zaawansowana paletyzacja</Title>
+<Text>
+# Zapisz aktualną pozycję robota. Naciśnij MENU, "POINT" -> "L - LINEAR".
+# Zmień prędkość SPD na 500mm/s.
+# Zmień aproksymację APX na 0.
+</Text>
+</M05S05S14>
+<M05S05S15>
+<Title>Zaawansowana paletyzacja</Title>
+<Text>
+# Naciśnij przycisk TOOL OFF aby otworzyć chwytak.
+# Dodaj instrukcję otwierania chwytaka w kolejnym wierszu. Naciśnij MENU, "INSTRUCTIONS" -> "TOOL OFF".
+</Text>
+</M05S05S15>
+<M05S05S16>
+<Title>Zaawansowana paletyzacja</Title>
+<Text>
+# Przyciskiem COORD przełącz układ na BASE.
+# Naciśnij Z+ i odjedź pionowo w górę.
+# Zapisz aktualną pozycję robota. Naciśnij MENU, "INSERT POINT" -> "L - LINEAR".
+</Text>
+</M05S05S16>
+<M05S05S17>
+<Title>Zaawansowana paletyzacja</Title>
+<Text>
+# Ustaw kursor na pierwszym wierszu i skopiuj punkt. Naciśnij MENU, "EDIT" -> "COPY".
+# Ustaw kursor w ostatnim pustym wierszu i wklej punkt. Naciśnij MENU, "EDIT" -> "PASTE".
+</Text>
+</M05S05S17>
+<M05S05S18>
+<Title>Zaawansowana paletyzacja</Title>
+<Text>
+# Przestaw stacyjkę robota w tryb T1.
+# Upewnij się, że włączony jest tryb ciągły
+# Odblokuj robota i uruchom program przyciskiem PLAY.
+</Text>
+</M05S05S18>
+<M05S05S19>
+<Title>Zaawansowana paletyzacja</Title>
+<Text>
+# Wyjdź z celi i przestaw kluczyk w stacyjce robota na T2.
+# Urucham program naciskając PLAY.
+</Text>
+</M05S05S19>
+<M05S05S20>
+<Title>Moduł 5 zakończony</Title>
+<Text>
+# Zaczekaj na trenera.
+</Text>
+</M05S05S20>
+<M06S01S01>
+<Title>Egzamin</Title>
+<Text>
+Wykonaj zadania zgodnie z wiedzą, którą zdobyłeś w trakcie szkolenia. Aby rozpocząć egzamin wciśnij przycisk potwierdzenia. Powodzenia!
+</Text>
+</M06S01S01>
+<M06S02S01>
+<Title>Zadanie 1</Title>
+<Text>
+Wykonaj zadanie 1. Gdy ukońcysz zadanie potwierdź je przyciskiem potwierdzenia kroku.
+
+Wstrzymaj produkcję w stacji zrobotyzowanej i wejdź do środka stacji.
+</Text>
+</M06S02S01>
+<M06S03S01>
+<Title>Zadanie 2</Title>
+<Text>
+Wykonaj zadanie 2. Gdy ukończysz zadanie potwierdź je przyciskiem potwierdzenia kroku.
+
+Wznów produkcję. Uruchom robota w trybie automatycznym.
+</Text>
+</M06S03S01>
+<M06S04S01>
+<Title>Zadanie 3</Title>
+<Text>
+Wykonaj zadanie 3. Gdy ukońcysz zadanie potwierdź je przyciskiem potwierdzenia kroku.
+
+Znajdź przyczynę błędu i usuń ją. Następnie wykonaj dowolny ruch robotem w trybie ręcznym.
+</Text>
+</M06S04S01>
+<M06S05S01>
+<Title>Zadanie 4</Title>
+<Text>
+Wykonaj zadanie 4. Gdy ukończysz zadanie potwierdź je przyciskiem potwierdzenia kroku.
+
+Stwórz nowy program o dowolnej nazwie i naucz dowolną trajektorię składającą się z 3 punktów. Uruchom program w trybie krokowym STEP MODE.
+</Text>
+</M06S05S01>
+<M06S06S01>
+<Title>Zadanie 5</Title>
+<Text>
+Wykonaj zadanie 5. Gdy ukońcysz zadanie potwierdź je przyciskiem potwierdzenia kroku.
+
+Stwórz program do pobierania i odkładania palety. Uruchom go w trybie ręcznym ciągłym.
+</Text>
+</M06S06S01>
+<M06S07S01>
+<Title>Wyniki egzaminu</Title>
+<Text>
+Twoje wyniki to:
+</Text>
+</M06S07S01>
+</steps>
+<hints>
+<Casette>
+<EStop>
+<Title>E-Stop</Title>
+<Text>Wyłącznik awaryjny. Zatrzymuje pracę całej stacji.</Text>
+</EStop>
+<YellowLamp>
+<Title>Żądanie wejścia</Title>
+<Text>Bzpiecznie zatrzymuje robota na końcu cyklu wykonania.</Text>
+</YellowLamp>
+<RedLamp>
+<Title>Błąd</Title>
+<Text>Syganlizuje błąd stacji.</Text>
+</RedLamp>
+<GreenLamp>
+<Title>Start</Title>
+<Text>Sygnalizuje pracę robota w trybie automatycznym.</Text>
+</GreenLamp>
+</Casette>
+<Cabinet>
+<PowerKnob>
+<Title>Wyłącznik zasilania</Title>
+<Text>Wyłącznik zasilania szafy robota.</Text>
+</PowerKnob>
+<Key>
+<Title>Stacyjka</Title>
+<Text>Wybór trybu pracy robota. T1/T2 - tryb ręczny, AUTO - tryb automatyczny.</Text>
+</Key>
+<BlueLamp>
+<Title>Reset</Title>
+<Text>Przycisk kasowania błędów robota.</Text>
+</BlueLamp>
+<GreenLamp>
+<Title>Status napędów</Title>
+<Text>Lampka oznacza, że napędy robota są aktywne.</Text>
+</GreenLamp>
+<FaultLamp>
+<Title>Indykator błędu</Title>
+<Text>Błąd w robocie.</Text>
+</FaultLamp>
+<PowerLamp>
+<Title>Indykator zasilania</Title>
+<Text>Zasilanie załączone.</Text>
+</PowerLamp>
+<EStop>
+<Title>E-Stop</Title>
+<Text>Wyłącznik awaryjny. Zatrzymuje pracę całej stacji.</Text>
+</EStop>
+</Cabinet>
+<Pendant>
+<StatusBar>
+<Title>Pasek statusu</Title>
+<Text>Bierzące komunikaty o stanie pracy robota.</Text>
+</StatusBar>
+<EStop>
+<Title>E-Stop</Title>
+<Text>Wyłącznik awaryjny. Zatrzymuje pracę całej stacji.</Text>
+</EStop>
+<Indicators>
+<Title>Lampki</Title>
+<Text>Wskazują status odblokowania napędów robota.</Text>
+</Indicators>
+<MoveSection>
+<Title>Przyciski ruchu</Title>
+<Text> </Text>
+</MoveSection>
+<SpeedChange>
+<Title>Speed Up / Down</Title>
+<Text> </Text>
+</SpeedChange>
+<Help>
+<Title>Help</Title>
+<Text>Powtórzenie wypowiedzi lektora.</Text>
+</Help>
+<Coord>
+<Title>Coord</Title>
+<Text> </Text>
+</Coord>
+<Deadman>
+<Title>Deadman</Title>
+<Text> </Text>
+</Deadman>
+<Ack>
+<Title>Acknowledge</Title>
+<Text> </Text>
+</Ack>
+<Reset>
+<Title>Reset</Title>
+<Text> </Text>
+</Reset>
+<ToolSection>
+<Title>Tool ON / OFF</Title>
+<Text> </Text>
+</ToolSection>
+<Menu>
+<Title>Menu</Title>
+<Text> </Text>
+</Menu>
+<StepMode>
+<Title>Step / Normal</Title>
+<Text> </Text>
+</StepMode>
+<MoveTo>
+<Title>Move To</Title>
+<Text> </Text>
+</MoveTo>
+<Rec>
+<Title>Record</Title>
+<Text> </Text>
+</Rec>
+<RobotControl>
+<Title>Play / Stop</Title>
+<Text> </Text>
+</RobotControl>
+<Enter>
+<Title>Enter</Title>
+<Text> </Text>
+</Enter>
+<Keyboard>
+<Title>Keyboard</Title>
+<Text> </Text>
+</Keyboard>
+<Prev>
+<Title>Backspace</Title>
+<Text> </Text>
+</Prev>
+<ProgramList>
+<Title>Program List</Title>
+<Text> </Text>
+</ProgramList>
+<ScreenStepIndicator>
+<Title>Indykator trybu ruchu</Title>
+<Text> </Text>
+</ScreenStepIndicator>
+<ScreenSpeedIndicator>
+<Title>Indykator prędkości</Title>
+<Text> </Text>
+</ScreenSpeedIndicator>
+<ScreenCoordIndicator>
+<Title>Indykator układu odniesienia</Title>
+<Text> </Text>
+</ScreenCoordIndicator>
+</Pendant>
+<Console>
+<Start>
+<Title>Start</Title>
+<Text>Uruchamianie produkcji.</Text>
+</Start>
+<Stop>
+<Title>Stop</Title>
+<Text>Zatrzymywanie produkcji.</Text>
+</Stop>
+<SafetyReset>
+<Title>Safety Reset</Title>
+<Text>Potwierdzenie dezaktywacji wyłączenia awaryjnego.</Text>
+</SafetyReset>
+<AlarmsReset>
+<Title>Alarms Reset</Title>
+<Text>Potwierdzenie usunięcia błędów.</Text>
+</AlarmsReset>
+</Console>
+</hints>
+</body>

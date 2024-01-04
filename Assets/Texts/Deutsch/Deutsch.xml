@@ -1,0 +1,1018 @@
+<?xml version="1.0" encoding="utf-8"?>
+<texts>
+<M01S01S01>
+<Title>To jest niemiecki XML
+</Title>
+<Text># Dotknij kciukiem trackpad na kontrolerze, aby go aktywować.
+#Potwierdź wykonanie kroku naciskając czerwony przycisk.
+</Text>
+</M01S01S01>
+<M01S01S02>
+<Title>Technologia VR
+</Title>
+<Text>Zwróć uwagę na podświetlone przedmioty rozmieszczone wokół Ciebie.
+</Text>
+</M01S01S02>
+<M01S01S03>
+<Title>Technologia VR
+</Title>
+<Text>Zbliż dłoń do drewnianej skrzyni. 
+# Naciśnij spust i przenieś skrzynię na podłogę.
+</Text>
+</M01S01S03>
+<M01S01S04>
+<Title>Technologia VR
+</Title>
+<Text>Naciśnij podświetlone przyciski na pilocie.
+</Text>
+</M01S01S04>
+<M01S01S05>
+<Title>Moduł 1 zakończony
+</Title>
+<Text>Zaczekaj na trenera.
+</Text>
+</M01S01S05>
+<M02S01S01>
+<Title>Witaj w module 2
+</Title>
+<Text>#Po wysłuchaniu instrukcji przejdź do kolejnego kroku.
+</Text>
+</M02S01S01>
+<M02S01S02>
+<Title>Bezpieczeństwo pracy
+</Title>
+<Text># Zlokalizuj wejściową bramkę bezpieczeństwa.
+</Text>
+</M02S01S02>
+<M02S01S03>
+<Title>Bezpieczeństwo pracy
+</Title>
+<Text>#Zlokalizuj pulpit sterowniczy.
+</Text>
+</M02S01S03>
+<M02S01S04>
+<Title>Bezpieczeństwo pracy
+</Title>
+<Text>#Zlokalizuj kolumnę świetlną.
+</Text>
+</M02S01S04>
+<M02S01S05>
+<Title>Bezpieczeństwo pracy
+</Title>
+<Text>#Zlokalizuj szafę robota.
+</Text>
+</M02S01S05>
+<M02S01S06>
+<Title>Bezpieczeństwo pracy
+</Title>
+<Text>#Zlokalizuj skrzynkę z kłódką.
+</Text>
+</M02S01S06>
+<M02S01S07>
+<Title>Bezpieczeństwo pracy
+</Title>
+<Text># Zlokalizuj wszystkie wyłączniki awaryjne E-Stop.
+</Text>
+</M02S01S07>
+<M02S02S01>
+<Title>E-STOP
+</Title>
+<Text># Wciśnij dowolny przycisk E-Stop.
+# Zwróć uwagę czy robot się zatrzymał.
+</Text>
+</M02S02S01>
+<M02S02S02>
+<Title>E-STOP
+</Title>
+<Text># Sprawdź status lampek na przyciskach na pulpicie.
+# Sprawdź status lampek na kolumnie świetlnej.
+# Sprawdź status lampek na kasetce przy bramce.
+</Text>
+</M02S02S02>
+<M02S02S03>
+<Title>E-STOP
+</Title>
+<Text># Wyciągnij wciśnięte wyłączniki awaryjne E-Stop.
+</Text>
+</M02S02S03>
+<M02S02S04>
+<Title>E-STOP
+</Title>
+<Text># Potwierdź alarm związany z bezpieczeństwem celi przyciskiem SAFETY RESET.
+</Text>
+</M02S02S04>
+<M02S02S05>
+<Title>E-STOP
+</Title>
+<Text># Potwierdź alarmy niezwiązane z bezpieczeństwem celi przyciskiem ALARMS RESET.
+</Text>
+</M02S02S05>
+<M02S02S06>
+<Title>E-STOP
+</Title>
+<Text># Włącz tryb automatyczny celi zrobotyzowanej przyciskiem START.
+</Text>
+</M02S02S06>
+<M02S03S01>
+<Title>Bezpieczeństwo celi
+</Title>
+<Text># Zatrzymaj produkcję przyciskiem STOP.
+# Upewnij się, że robot się zatrzymał.
+</Text>
+</M02S03S01>
+<M02S03S02>
+<Title>Bezpieczeństwo celi
+</Title>
+<Text># Przekręć kluczyk w stacyjce szafy robota w pozycję T1.
+</Text>
+</M02S03S02>
+<M02S03S03>
+<Title>Bezpieczeństwo celi
+</Title>
+<Text># Załóż na głowę czapkę ochronną.
+</Text>
+</M02S03S03>
+<M02S03S04>
+<Title>Bezpieczeństwo celi
+</Title>
+<Text># Otwórz bramkę wejściową.
+</Text>
+</M02S03S04>
+<M02S03S05>
+<Title>Bezpieczeństwo celi
+</Title>
+<Text># Weź kłódkę ze skrzynki Lock Box znajdującej się na szafie robota.
+# Zablokuj zamek bramki przed zatrzaśnięciem w nim rygla bramki.
+</Text>
+</M02S03S05>
+<M02S03S06>
+<Title>Bezpieczeństwo celi
+</Title>
+<Text># Naciśnij przycisk “Teleport”, aby przenieść się do środka celi.
+</Text>
+</M02S03S06>
+<M02S03S07>
+<Title>Moduł 2 zakończony
+</Title>
+<Text># Zaczekaj na trenera.
+</Text>
+</M02S03S07>
+<M03S01S01>
+<Title>Witaj w module 3
+</Title>
+<Text># Po wysłuchaniu instrukcji przejdź do kolejnego kroku.
+</Text>
+</M03S01S01>
+<M03S01S02>
+<Title>Przycisk czuwaka
+</Title>
+<Text># Sprawdź działanie przycisków czuwaka.
+# Naciśnij ACK na klawiaturze pilota, aby przejść do kolejnego kroku.
+</Text>
+</M03S01S02>
+<M03S01S03>
+<Title>Przycisk czuwaka
+</Title>
+<Text># Wciśnij i trzymaj dowolny przycisk czuwaka.
+# Potwierdź wciśnięcie czuwaka przyciskiem RESET na klawiaturze pilota.
+</Text>
+</M03S01S03>
+<M03S02S01>
+<Title>Ruch przegubowy
+</Title>
+<Text># Przełącz układ współrzędnych, naciśnij przycisk COORD.
+</Text>
+</M03S02S01>
+<M03S02S02>
+<Title>Ruch przegubowy
+</Title>
+<Text># Wybierz układ JOINT.
+</Text>
+</M03S02S02>
+<M03S02S03>
+<Title>Ruch przegubowy
+</Title>
+<Text># Wciśnij i przytrzymaj przycisk czuwaka.
+# Skasuj błędy przyciskiem RESET.
+# Poruszaj osią 1 za pomocą przycisków J1- i J1+.
+</Text>
+</M03S02S03>
+<M03S02S04>
+<Title>Ruch przegubowy
+</Title>
+<Text># Przestaw oś 2 za pomocą przycisków J2- i J2+.
+# Przestaw oś 3 za pomocą przycisków J3- i J3+.
+# Przestaw oś 4 za pomocą przycisków J4- i J4+.
+# Przestaw oś 5 za pomocą przycisków J5- i J5+.
+# Przestaw oś 6 za pomocą przycisków J6- i J6+.
+</Text>
+</M03S02S04>
+<M03S03S01>
+<Title>Limity osi
+</Title>
+<Text># Przestaw trzecią oś robota do momentu aż pojawi się limit.
+</Text>
+</M03S03S01>
+<M03S03S02>
+<Title>Limity osi
+</Title>
+<Text># Skasuj błąd przyciskiem RESET na pilocie lub za pomocą przycisku RESET ERRORS na pulpicie operatora.
+# Przestaw oś robota w kierunku przeciwnym do limitu.
+</Text>
+</M03S03S02>
+<M03S04S01>
+<Title>Ruch liniowy
+</Title>
+<Text># Wybierz układ BASE.
+</Text>
+</M03S04S01>
+<M03S04S02>
+<Title>Ruch liniowy
+</Title>
+<Text># Poruszaj chwytakiem za pomocą przycisków -X i +X.
+</Text>
+</M03S04S02>
+<M03S04S03>
+<Title>Ruch liniowy
+</Title>
+<Text># Poruszaj chwytakiem za pomocą przycisków -Y i +Y.
+</Text>
+</M03S04S03>
+<M03S04S04>
+<Title>Ruch liniowy
+</Title>
+<Text># Poruszaj chwytakiem za pomocą przycisków -Z i +Z.
+</Text>
+</M03S04S04>
+<M03S04S05>
+<Title>Ruch liniowy
+</Title>
+<Text># Obróć robota względem osi X przyciskami -Rx lub +Rx.
+</Text>
+</M03S04S05>
+<M03S04S06>
+<Title>Ruch liniowy
+</Title>
+<Text># Obróć robota względem osi Y przyciskami -Ry lub +Ry.
+# Obróć robota względem osi Z przyciskami -Rz lub +Rz.
+</Text>
+</M03S04S06>
+<M03S04S07>
+<Title>Moduł 3 zakończony
+</Title>
+<Text>Za chwilę zostanie uruchomiony kolejny moduł.
+</Text>
+</M03S04S07>
+<M03S05S01>
+<Title>Punkt osobliwy
+</Title>
+<Text>W kolejnych krokach dowiesz się co to jest osobliwość osi i jak unikać tego zjawiska. 
+Przełącz układ współrzędnych za pomocą COORD na tryb JOINT.
+</Text>
+</M03S05S01>
+<M03S05S02>
+<Title>Punkt osobliwy
+</Title>
+<Text>Włącz na pilocie podgląd pozycji kątowej każdej osi.
+Naciśnij na klawiaturze MENU i wybierz "AKTUALNA POZYCJA".
+</Text>
+</M03S05S02>
+<M03S05S03>
+<Title>Punkt osobliwy
+</Title>
+<Text>Ustaw oś 5 tak, aby chwytak był mniej więcej w tej samej linii co ramię 4 osi robota, czyli kąt na osi 5 powinien być z przedziału -2 do +2 stopnie.
+Pozycję kątową możesz odczytać z ekranu pilota.
+</Text>
+</M03S05S03>
+<M03S05S04>
+<Title>Punkt osobliwy
+</Title>
+<Text>Przełącz układ współrzędnych za pomocą COORD na tryb BASE.
+</Text>
+</M03S05S04>
+<M03S05S05>
+<Title>Punkt osobliwy
+</Title>
+<Text>Za pomocą przycisków Z+ i Z- przestaw robota najpierw w górę, potem w dół. 
+Pamiętaj o trzymaniu przycisku MOVE ENABLE.
+</Text>
+</M03S05S05>
+<M03S05S06>
+<Title>Punkt osobliwy
+</Title>
+<Text>Gdy oś 5 zbliży się do pozycji ok. 0 st, pojawi się alarm z informacją, że punkt jest nieosiągalny - to właśnie jest osobliwość. Oś, której to dotyczy zostanie podświetlona na fioletowo a dalszy ruch nie będzie możliwy.
+</Text>
+</M03S05S06>
+<M03S05S07>
+<Title>Punkt osobliwy
+</Title>
+<Text>Skasuj alarm za pomocą przycisku RESET na pilocie lub za pomocą przycisku RESET ERRORS na pulpicie operatora (wtedy skorzystaj z przycisku Teleport).
+</Text>
+</M03S05S07>
+<M03S05S08>
+<Title>Punkt osobliwy
+</Title>
+<Text>Przełącz ponownie układ współrzędnych za pomocą przycisku COORD na tryb JOINT.
+Przestaw oś 5 tak, aby kąt na tej osi był większy niż 10 stopni lub mniejszy niż -10 stopni.
+</Text>
+</M03S05S08>
+<M03S05S09>
+<Title>Punkt osobliwy
+</Title>
+<Text>Przełącz ponownie układ współrzędnych za pomocą COORD na tryb BASE.
+Wykonaj dowolny ruch naciskając przyciski X, Y, Z. Robot powinien się poruszyć przynajmniej o 20mm.
+</Text>
+</M03S05S09>
+<M03S05S10>
+<Title>Moduł 3 zakończony
+</Title>
+<Text>Za chwilę zostanie uruchomiony kolejny moduł.
+</Text>
+</M03S05S10>
+<M04S01S01>
+<Title>Witaj w module 4
+</Title>
+<Text>Po wysłuchaniu informacji, potwierdź wykonanie kroku.
+</Text>
+</M04S01S01>
+<M04S01S02>
+<Title>Prosta paletyzacja
+</Title>
+<Text>Otwórz chwytak przyciskiem TOOL ON #Zamknij chwytak przyciskiem TOOL OFF
+</Text>
+</M04S01S02>
+<M04S01S03>
+<Title>Prosta paletyzacja
+</Title>
+<Text>Wybierz układ typu JOINT #Ustaw chwytak robota w zaznaczonej przestrzeni #Chwytak robota skieruj szczękami w dół.
+</Text>
+</M04S01S03>
+<M04S01S04>
+<Title>Prosta paletyzacja
+</Title>
+<Text>Wybierz układ typu BASE. # Ustaw chwytak robota w pozycji pobrania palety przyciskiem -Z.
+</Text>
+</M04S01S04>
+<M04S01S05>
+<Title>Prosta paletyzacja
+</Title>
+<Text>Zamknij chwytak przyciskiem TOOL ON.
+</Text>
+</M04S01S05>
+<M04S01S06>
+<Title>Prosta paletyzacja
+</Title>
+<Text># Ustaw chwytak robota nad przenośnikiem przyciskiem +Z.
+</Text>
+</M04S01S06>
+<M04S01S07>
+<Title>Prosta paletyzacja
+</Title>
+<Text>Wybierz układ typu JOINT. # Ruchem przeciwnym do ruchu wskazówek zegara, ustaw paletę nad drugim przenośnikiem.
+</Text>
+</M04S01S07>
+<M04S01S08>
+<Title>Prosta paletyzacja
+</Title>
+<Text>Wybierz układ typu BASE. # Postaw paletę delikatnie na przenośniku naciskając -Z.
+</Text>
+</M04S01S08>
+<M04S01S09>
+<Title>Prosta paletyzacja
+</Title>
+<Text>Otwórz chwytak przyciskiem TOOL OFF. # Przestaw chwytak robota nad przenośnik naciskając +Z.
+</Text>
+</M04S01S09>
+<M04S01S10>
+<Title>Prosta paletyzacja
+</Title>
+<Text>Ustaw robota w pozycji domowej.
+</Text>
+</M04S01S10>
+<M04S02S01>
+<Title>Układ narzędzia (TOOL)
+</Title>
+<Text>Zwróć uwagę na punkt na chwytaku oraz na punkt pomiarowy znajdujący się obok robota - obydwa punkty są podświetlone.
+Punkt na chwytaku będzie nowym układem współrzędnych.
+</Text>
+</M04S02S01>
+<M04S02S02>
+<Title>Układ narzędzia (TOOL)
+</Title>
+<Text>Naciśnij na klawiaturze MENU i wybierz kolejno “Kalibracja TCP” - “TCP NARZĘDZIA” - “METODA PUNKTOWA”. Każdy wybór zatwierdź przyciskiem ENTER.
+</Text>
+</M04S02S02>
+<M04S02S03>
+<Title>Układ narzędzia (TOOL)
+</Title>
+<Text>Przestaw osie robota tak, aby podświetlony punkt chwytaka dotknął szpicy znajdującej się tuż przed robotem.
+Skorzystaj z układu BASE.
+</Text>
+</M04S02S03>
+<M04S02S04>
+<Title>Układ narzędzia (TOOL)
+</Title>
+<Text>Zapamiętaj pozycję robota X,Y,Z. Ustaw kursor na pierwszym wierszu tabeli i naciśnij przycisk RECORD - REC.
+</Text>
+</M04S02S04>
+<M04S02S05>
+<Title>Układ narzędzia (TOOL)
+</Title>
+<Text>Przestaw osie tak, aby podświetlony punkt chwytaka dotknął szpicy, ale tym razem ustaw ramiona robota pod innymi kątami, czyli w innej orientacji niż poprzednio. Kąty dla każdej osi powinny być przestawione o minimum 2 stopnie.
+</Text>
+</M04S02S05>
+<M04S02S06>
+<Title>Układ narzędzia (TOOL)
+</Title>
+<Text>Zapamiętaj pozycję robota X,Y,Z podobnie jak poprzednio, ale kursor ustaw na kolejnym wierszu tabeli  i naciśnij przycisk RECORD - REC.
+</Text>
+</M04S02S06>
+<M04S02S07>
+<Title>Układ narzędzia (TOOL)
+</Title>
+<Text>Jeszcze raz przestaw osie robota tak, aby podświetlony punkt chwytaka dotknął szpicy. Pamiętaj, aby tym razem osie również były ustawione pod innymi kątami niż w poprzednich krokach.
+</Text>
+</M04S02S07>
+<M04S02S08>
+<Title>Układ narzędzia (TOOL)
+</Title>
+<Text>Zapamiętaj pozycję tego punktu w ostatnim wierszu tabeli. 
+Punkt zerowy TCP nowego układu narzędzia TOOL został wyznaczony.
+</Text>
+</M04S02S08>
+<M04S02S09>
+<Title>Układ narzędzia (TOOL)
+</Title>
+<Text>Teraz należy sprawdzić czy nowe TCP pokrywa się z podświetlonym punktem na chwytaku. 
+Odsuń robota od szpicy pomiarowej na odległość min 0,5m.
+</Text>
+</M04S02S09>
+<M04S02S10>
+<Title>Układ narzędzia (TOOL)
+</Title>
+<Text>Przełącz układ współrzędnych przyciskiem COORD na układ TOOL.
+</Text>
+</M04S02S10>
+<M04S02S11>
+<Title>Układ narzędzia (TOOL)
+</Title>
+<Text>Za pomocą przycisków do zmiany orientacji Rx, Ry, Rz zrób kilka dowolnych ruchów. Zwróć uwagę, czy robot obraca się wokół nowego TCP, które wyznaczyłeś. Punkt TCP powinien pozostać w jednym miejscu. 
+</Text>
+</M04S02S11>
+<M04S02S12>
+<Title>Układ narzędzia (TOOL)
+</Title>
+<Text>Dla wyznaczonego układu należy wyznaczyć orientację, czyli nowe kierunki osi X, Y, Z po których będzie się poruszał punkt TCP.
+</Text>
+</M04S02S12>
+<M04S02S13>
+<Title>Układ narzędzia (TOOL)
+</Title>
+<Text>System robota oblicza orientację nowego układu na podstawie istniejącego układu, np. BASE. Żeby to mógł zrobić, należy osie obydwu układów - nowego i istniejącego, ustawić tak, aby się pokryły. Kierunki osi w układach nie mają teraz znaczenia.
+Ustaw chwytak prostopadle/równolegle do podstawy robota.
+</Text>
+</M04S02S13>
+<M04S02S14>
+<Title>Układ narzędzia (TOOL)
+</Title>
+<Text>Naciśnij na klawiaturze MENU i wybierz kolejno“Kalibracja TCP” - “TCP NARZĘDZIA” - “ORIENTACJA”. Każdy wybór zatwierdź przyciskiem ENTER.
+</Text>
+</M04S02S14>
+<M04S02S15>
+<Title>Układ narzędzia (TOOL)
+</Title>
+<Text>Zapamiętaj pozycję robota X,Y,Z. Ustaw kursor w wierszu “POCZĄTEK” i naciśnij RECORD - REC.
+</Text>
+</M04S02S15>
+<M04S02S16>
+<Title>Układ narzędzia (TOOL)
+</Title>
+<Text>Przełącz układ współrzędnych przyciskiem COORD na układ BASE.
+</Text>
+</M04S02S16>
+<M04S02S17>
+<Title>Układ narzędzia (TOOL)
+</Title>
+<Text>Naciskając przycisk +Z wskaż nowy kierunek +X na chwytaku. Przesunięcie powinno mieć długość min 200mm.
+Jeśli się pomylisz, zawsze możesz powtórzyć krok - zaznacz "POCZĄTEK", naciśnij ENABLE MOVE i MOVE TO.
+</Text>
+</M04S02S17>
+<M04S02S18>
+<Title>Układ narzędzia (TOOL)
+</Title>
+<Text>Zapamiętaj pozycję robota X,Y,Z. Ustaw kursor w wierszu “Kierunek +X” i naciśnij RECORD - REC.
+</Text>
+</M04S02S18>
+<M04S02S19>
+<Title>Układ narzędzia (TOOL)
+</Title>
+<Text>Naciskając przycisk -Y wskaż nowy kierunek +Y na chwytaku. Przesunięcie powinno mieć długość min 200mm.
+Jeśli się pomylisz, zawsze możesz powtórzyć krok - zaznacz "Kierunek +X", naciśnij ENABLE MOVE i MOVE TO.
+</Text>
+</M04S02S19>
+<M04S02S20>
+<Title>Układ narzędzia (TOOL)
+</Title>
+<Text>Zapamiętaj pozycję robota X,Y,Z. Ustaw kursor w wierszu “Kierunek +Y” i naciśnij RECORD - REC.
+Kierunek +Z jest wyznaczany na podstawie +X i +Y. Orientacja nowego układu została właśnie wyznaczona. 
+</Text>
+</M04S02S20>
+<M04S02S21>
+<Title>Układ narzędzia (TOOL)
+</Title>
+<Text>Przełącz układ współrzędnych przyciskiem COORD na układ TOOL.
+</Text>
+</M04S02S21>
+<M04S02S22>
+<Title>Układ narzędzia (TOOL)
+</Title>
+<Text>Wykonaj dowolny ruch robotem we wszystkich kierunkach oraz orientacjach. Zwróć uwagę, czy chwytak porusza się zgodnie z kierunkami, które nauczyłeś, czyli +X do góry, +Y w prawo, +Z do przodu.
+</Text>
+</M04S02S22>
+<M04S03S01>
+<Title>Układ przyrządu (STATION)
+</Title>
+<Text>Zwróć uwagę na punkt na chwytaku oraz na punkt pomiarowy w narożniku stołu - obydwa punkty są podświetlone.
+Punkt na stole będzie nowym układem współrzędnych. 
+</Text>
+</M04S03S01>
+<M04S03S02>
+<Title>Układ przyrządu (STATION)
+</Title>
+<Text>Naciśnij na klawiaturze MENU i wybierz kolejno “Kalibracja TCP” - “TCP PRZYRZĄDU” - “METODA PUNKTOWA”. Każdy wybór zatwierdź przyciskiem ENTER.
+</Text>
+</M04S03S02>
+<M04S03S03>
+<Title>Układ przyrządu (STATION)
+</Title>
+<Text>Przestaw osie robota tak, aby podświetlony punkt chwytaka dotknął szpicy znajdującej się na stole.
+Skorzystaj z układu TOOL, który wcześniej nauczyłeś.
+</Text>
+</M04S03S03>
+<M04S03S04>
+<Title>Układ przyrządu (STATION)
+</Title>
+<Text>Zapamiętaj pozycję robota X,Y,Z. Ustaw kursor w wierszu “POCZĄTEK” i naciśnij RECORD - REC.
+</Text>
+</M04S03S04>
+<M04S03S05>
+<Title>Układ przyrządu (STATION)
+</Title>
+<Text>Przełącz układ współrzędnych przyciskiem COORD na układ BASE.
+</Text>
+</M04S03S05>
+<M04S03S06>
+<Title>Układ przyrządu (STATION)
+</Title>
+<Text>Przestaw chwytak wzdłuż krawędzi stołu, równolegle w kierunku oznaczonym jako X, minimum o 200mm.
+Jeśli się pomylisz, zawsze możesz powtórzyć krok - zaznacz "POCZĄTEK", naciśnij ENABLE MOVE i MOVE TO.
+</Text>
+</M04S03S06>
+<M04S03S07>
+<Title>Układ przyrządu (STATION)
+</Title>
+<Text>Zapamiętaj pozycję robota X,Y,Z. Ustaw kursor w wierszu “Kierunek X” i naciśnij RECORD - REC.
+</Text>
+</M04S03S07>
+<M04S03S08>
+<Title>Układ przyrządu (STATION)
+</Title>
+<Text>Z bieżącego punktu przesuń chwytak równolegle do krawędzi stołu, zgodnie z zaznaczonym kierunkiem Y minimum o 200mm. 
+Jeśli się pomylisz, zawsze możesz powtórzyć krok - zaznacz "Kierunek X", naciśnij ENABLE MOVE i MOVE TO.
+</Text>
+</M04S03S08>
+<M04S03S09>
+<Title>Układ przyrządu (STATION)
+</Title>
+<Text>Zapamiętaj pozycję robota X,Y,Z. Ustaw kursor w wierszu “Kierunek Y” i naciśnij RECORD - REC.
+Punkt zerowy TCP nowego układu przyrządu USER został wyznaczony.
+</Text>
+</M04S03S09>
+<M04S03S10>
+<Title>Układ przyrządu (STATION)
+</Title>
+<Text>Odsuń chwytak robota na poza obręb stołu.
+</Text>
+</M04S03S10>
+<M04S03S11>
+<Title>Układ przyrządu (STATION)
+</Title>
+<Text>Przełącz układ współrzędnych przyciskiem COORD na układ USER.
+</Text>
+</M04S03S11>
+<M04S03S12>
+<Title>Układ przyrządu (STATION)
+</Title>
+<Text>Wykonaj ruch chwytakiem robota w każdym kierunku i sprawdź, czy porusza się równolegle do krawędzi stołu, a osie się pokrywają zgodnie z tymi co wyznaczyłeś.
+</Text>
+</M04S03S12>
+<M04S03S13>
+<Title>Moduł 4 zakończony
+</Title>
+<Text>Za chwilę zostanie uruchomiony kolejny moduł.
+</Text>
+</M04S03S13>
+<M05S01S01>
+<Title>Witaj w module 5
+</Title>
+<Text># Po wysłuchaniu informacji, potwierdź wykonanie kroku.
+</Text>
+</M05S01S01>
+<M05S01S02>
+<Title>Prosty program - tryb krokowy
+</Title>
+<Text># Naciśnij na klawiaturze przycisk MENU i wybierz kolejno "Program" -> "Nowy"
+# Naciśnij KEYBOARD i wpisz nazwę nowego programu. Zamknij klawiaturę i zatwierdź przyciskiem ENTER.
+</Text>
+</M05S01S02>
+<M05S01S03>
+<Title>Prosty program - tryb krokowy
+</Title>
+<Text># Wstaw punkt przegubowy. Naciśnij MENU i wybierz "Punkt" -> "J-przegubowo".
+</Text>
+</M05S01S03>
+<M05S01S04>
+<Title>Prosty program - tryb krokowy
+</Title>
+<Text># Wstaw wiersze poniżej wybierając MENU, "Edycja" -> "Wstaw poniżej". Wpisz wartość 3.
+</Text>
+</M05S01S04>
+<M05S01S05>
+<Title>Prosty program - tryb krokowy
+</Title>
+<Text># Ustaw prędkość robota na 80% przyciskami SPEED UP i SPEED DOWN.
+# Zmień pozycję robota.
+</Text>
+</M05S01S05>
+<M05S01S06>
+<Title>Prosty program - tryb krokowy
+</Title>
+<Text># Ustaw kursor w pustym wierszu i wstaw punkt liniowy. Naciśnij MENU, "Punkt" -> "L-liniowo".
+</Text>
+</M05S01S06>
+<M05S01S07>
+<Title>Prosty program - tryb krokowy
+</Title>
+<Text># Przestaw ramiona robota o dowolną odległość.
+# Ustaw kursor w pustym wierszu i wstaw punkt liniowy, naciśnij MENU, "Punkt" -> "L-liniowo".
+</Text>
+</M05S01S07>
+<M05S01S08>
+<Title>Prosty program - tryb krokowy
+</Title>
+<Text># Skopiuj pierwszy wiersz, naciśnij MENU, "Edycja" -> "Kopiuj".
+# Wklej punkt w ostatnim pustym wierszu, naciśnij MENU, "Edycja" -> "Wklej".
+</Text>
+</M05S01S08>
+<M05S01S09>
+<Title>Prosty program - tryb krokowy
+</Title>
+<Text># Ustaw kursor na pierwszym wierszu programu.
+# Zmniejsz prędkość robota do 50%.
+# Włącz tryb krokowy przyciskiem STEP MODE na klawiaturze.
+</Text>
+</M05S01S09>
+<M05S01S10>
+<Title>Prosty program - tryb krokowy
+</Title>
+<Text># Odblokuj napędy robota. Wciśnij i trzymaj przycisk czuwaka. Potwierdź RESET.
+# Naciśnij i puść przycisk PLAY.
+</Text>
+</M05S01S10>
+<M05S01S11>
+<Title>Prosty program - tryb krokowy
+</Title>
+<Text># Ponownie naciśnij PLAY, aby przejść do kolejnego punktu.
+</Text>
+</M05S01S11>
+<M05S01S12>
+<Title>Prosty program - tryb krokowy
+</Title>
+<Text># Kontynuuj wykonywanie programu w trybie krokowym aż do ostaniego wiersza.
+</Text>
+</M05S01S12>
+<M05S02S01>
+<Title>Prosty program - tryb ciągły
+</Title>
+<Text># Ustaw kursor na pierwszym wierszu programu.
+# Wyłącz tryb krokowy STEP MODE 
+# Uruchom program. Naciśnij przycisk PLAY
+</Text>
+</M05S02S01>
+<M05S02S02>
+<Title>Prosty program - tryb ciągły
+</Title>
+<Text># Uruchom program przyciskiem PLAY. 
+
+# Zmieniaj prędkość w trakcie wykonywania programu przyciskami SPEED UP i SPEED DOWN.
+</Text>
+</M05S02S02>
+<M05S02S03>
+<Title>Prosty program - tryb ciągły
+</Title>
+<Text># Uruchom program przyciskiem PLAY. 
+
+# W trakcie ruchu robota naciśnij przycisk STOP.
+
+# Dokończ program.
+</Text>
+</M05S02S03>
+<M05S02S04>
+<Title>Prosty program - tryb ciągły
+</Title>
+<Text># Zaznacz kursorem trzeci wiersz w programie.
+
+# Przestaw robota do wybranego punktu naciskając przycisk MOVE TO.
+</Text>
+</M05S02S04>
+<M05S02S05>
+<Title>Prosty program - tryb ciągły
+</Title>
+<Text># Zaznacz kursorem pierwszy wiersz i naciśnij MOVE TO.
+</Text>
+</M05S02S05>
+<M05S03S01>
+<Title>Parametryzacja punktów
+</Title>
+<Text># Ustaw kursor na drugim wierszu.
+
+# Strzałkami prawo i lewo zaznacz wartość po prawej stronie symbolu APX. 
+
+# Zmień wartość parametru APX na 10 i zatwierdź zmiany przyciskiem ENTER.
+</Text>
+</M05S03S01>
+<M05S03S02>
+<Title>Parametryzacja punktów
+</Title>
+<Text># Ustaw kursor na trzecim wierszu. 
+
+# Strzałkami prawo i lewo zaznacz wartość po prawej stronie symbolu SPD. 
+
+# Zmień ją na 500mm/s, jeśli jest to punkt liniowy. Jeśli przegubowy zmień na 45%. Zatwierdź zmiany przyciskiem ENTER.
+</Text>
+</M05S03S02>
+<M05S03S03>
+<Title>Parametryzacja punktów
+</Title>
+<Text># Przestaw robota w dowolne miejsce w przestrzeni.
+
+# Ustaw kursor na ostatnim wierszu i nadpisz współrzędne tego punktu przyciskiem REC.
+</Text>
+</M05S03S03>
+<M05S03S04>
+<Title>Parametryzacja punktów
+</Title>
+<Text># Ustaw kursor na drugim wierszu.
+
+# Strzałkami zaznacz literę “L”.
+
+# Zmień typ punktu z liniowego na przegubowy. Naciśnij ENTER.
+</Text>
+</M05S03S04>
+<M05S03S05>
+<Title>Parametryzacja punktów
+</Title>
+<Text># Uruchom robota przyciskiem PLAY.
+</Text>
+</M05S03S05>
+<M05S04S01>
+<Title>Kopia zapasowa
+</Title>
+<Text># Otwórz listę programów przyciskiem PROGRAM LIST.
+
+# Zaznacz kursorem dowolny program w liście programów. Naciśnij MENU, "Program" -> "Duplikuj".
+
+# W okienku wpisz nazwę, np. TEST5 i zatwierdź ENTER.
+</Text>
+</M05S04S01>
+<M05S04S02>
+<Title>Kopia zapasowa
+</Title>
+<Text># Zaznacz program, który chcesz usunąć.
+# Naciśnij MENU, "Program" -> "Usuń". Zatwierdź wybór przyciskiem ENTER.
+</Text>
+</M05S04S02>
+<M05S05S01>
+<Title>Przekładanie palety
+</Title>
+<Text># Naciśnij MENU, "Program" -> "Nowy".
+
+# Naciśnij przycisk KEYBOARD i wpisz nazwę PALETA1. Zatwierdź ENTER.
+</Text>
+</M05S05S01>
+<M05S05S02>
+<Title>Przekładanie palety
+</Title>
+<Text># Wstaw punkt przebugowy. Naciśnij MENU, "Punkt" -> "J-przegubowo". 
+
+# Zmień wartość APX na 0.
+</Text>
+</M05S05S02>
+<M05S05S03>
+<Title>Przekładanie palety
+</Title>
+<Text># Wstaw 5 pustych wierszy. Naciśnij MENU, "Edycja" -> "Wstaw poniżej".
+</Text>
+</M05S05S03>
+<M05S05S04>
+<Title>Przekładanie palety
+</Title>
+<Text># Przełącz układ na JOINT.
+
+# Ustaw chwytak nad paletą w zaznaczonym miejscu.
+
+# Ustaw chwytak robota pionowo w dół, w kierunku palety.
+</Text>
+</M05S05S04>
+<M05S05S05>
+<Title>Przekładanie palety
+</Title>
+<Text># Zapisz pozycję robota w kolejnym wierszu. Naciśnij MENU, "Punkt" -> "J-przegubowo".
+</Text>
+</M05S05S05>
+<M05S05S06>
+<Title>Przekładanie palety
+</Title>
+<Text># Przełącz układ na BASE.
+
+# Ustaw robota w pozycji pobrania tak, aby szczęki chwytaka znalazły się między belkami palety. Naciskaj przyciski -Z i +Z, aby dopasować pozycję.
+</Text>
+</M05S05S06>
+<M05S05S07>
+<Title>Przekładanie palety
+</Title>
+<Text># Zapisz pozycję robota w kolejnym wierszu. Naciśnij MENU, "Punkt" -> "L-liniowo".
+
+# Zmień prędkość SPD na 500mm/s.
+
+# Zmień aproksymację APX na 0.
+</Text>
+</M05S05S07>
+<M05S05S08>
+<Title>Przekładanie palety
+</Title>
+<Text># Zamknij chwytak. Naciśnij przycisk TOOL ON.
+
+# Dodaj instrukcję zamykania chwytaka w kolejnym wierszu. Naciśnij MENU, "Instrukcje" -> "Zamknij chwytak".
+</Text>
+</M05S05S08>
+<M05S05S09>
+<Title>Przekładanie palety
+</Title>
+<Text># Przełącz układ na BASE.
+
+# Podnieś paletę. Naciśnij +Z i odjedź pionowo w górę do zaznaczonego obszaru.
+</Text>
+</M05S05S09>
+<M05S05S10>
+<Title>Przekładanie palety
+</Title>
+<Text># Zapisz aktualną pozycję. Naciśnij MENU, "Punkt" -> "L-liniowo".
+
+# Zmień prędkość SPD na 500mm/s.
+
+# Zmień aproksymację APX na 50.
+</Text>
+</M05S05S10>
+<M05S05S11>
+<Title>Przekładanie palety
+</Title>
+<Text># Przełącz układ na JOINT.
+
+# Przestaw robota, tak aby znajdował się w połowie drogi między przenośnikami, przodem do Ciebie.
+
+# Zapisz punkt pośredni w pustym wierszu. Naciśnij MENU, "Punkt" -> "J-przegubowo".
+</Text>
+</M05S05S11>
+<M05S05S12>
+<Title>Przekładanie palety
+</Title>
+<Text># Przełącz układ na JOINT.
+# Przestaw robota, tak aby znajdował się bezpośrednio nad drugim przenośnikiem.
+# Zapisz aktualną pozycję. Naciśnij MENU, "Punkt" - "J-przegubowo". 
+# Zmień prędkość SPD na 100% 
+# Zmień aproksymację APX na 20.
+</Text>
+</M05S05S12>
+<M05S05S13>
+<Title>Przekładanie palety
+</Title>
+<Text># Przełącz układ na BASE
+
+# Przyciskiem -Z ustaw robota w pozycji odłożenia palety tak, aby paleta delikatnie dotknęła przenośnik.
+</Text>
+</M05S05S13>
+<M05S05S14>
+<Title>Przekładanie palety
+</Title>
+<Text># Zapisz aktualną pozycję robota. Naciśnij MENU, "Punkt" -> "L-liniowo".
+
+# Zmień prędkość SPD na 500mm/s.
+
+# Zmień aproksymację APX na 0.
+</Text>
+</M05S05S14>
+<M05S05S15>
+<Title>Przekładanie palety
+</Title>
+<Text># Otwórz chwytak. Naciśnij przycisk TOOL OFF.
+
+# Dodaj instrukcję otwierania chwytaka w kolejnym wierszu. Naciśnij MENU, "Instrukcje" -> "Otwórz chwytak".
+</Text>
+</M05S05S15>
+<M05S05S16>
+<Title>Przekładanie palety
+</Title>
+<Text># Przełącz układ na BASE.
+
+# Odjedź robotem. Naciśnij +Z i odjedź pionowo w górę.
+
+# Zapisz aktualną pozycję robota. Naciśnij MENU, "Punkt" -> "L-liniowo".
+</Text>
+</M05S05S16>
+<M05S05S17>
+<Title>Przekładanie palety
+</Title>
+<Text># Ustaw kursor na pierwszym wierszu i skopiuj punkt. Naciśnij MENU, "Edycja" -> "Kopiuj".
+
+# Ustaw kursor w ostatnim pustym wierszu i wklej punkt. Naciśnij MENU, "Edycja" -> "Wklej".
+</Text>
+</M05S05S17>
+<M05S05S18>
+<Title>Przekładanie palety
+</Title>
+<Text># Przestaw stacyjkę robota w tryb T1.
+
+# Upewnij się, że włączony jest tryb ciągły
+
+# Odblokuj robota i uruchom program przyciskiem PLAY.
+</Text>
+</M05S05S18>
+<M05S05S19>
+<Title>Przekładanie palety
+</Title>
+<Text># Wyjdź z celi i przestaw kluczyk w stacyjce robota na T2.
+
+# Ustaw kursor w pierwszym wierszu i naciśnij PLAY.
+</Text>
+</M05S05S19>
+<M05S05S20>
+<Title>Moduł 5 zakończony
+</Title>
+<Text># Zaczekaj na trenera.
+</Text>
+</M05S05S20>
+<M06S01S01>
+<Title>Egzamin
+</Title>
+<Text>Wykonaj zadania zgodnie z wiedzą, którą zdobyłeś w trakcie szkolenia. Aby rozpocząć egzamin wciśnij przycisk potwierdzenia. Powodzenia!
+</Text>
+</M06S01S01>
+<M06S02S01>
+<Title>Zadanie 1
+</Title>
+<Text>Wykonaj zadanie 1. Gdy ukońcysz zadanie potwierdź je przyciskiem potwierdzenia kroku.
+
+Zatrzymaj robota i wejdź do celi.
+</Text>
+</M06S02S01>
+
+<M06S03S01>
+<Title>Zadanie 2
+</Title>
+<Text>Wykonaj zadanie 2. Gdy ukońcysz zadanie potwierdź je przyciskiem potwierdzenia kroku.
+
+Uruchom robota w trybie automatycznym.
+</Text>
+</M06S03S01>
+<M06S04S01>
+<Title>Zadanie 3
+</Title>
+<Text>Wykonaj zadanie 3. Gdy ukońcysz zadanie potwierdź je przyciskiem potwierdzenia kroku.
+
+Znajdź przyczynę błędu i usuń go a następnie wykonaj dowolny ruch robotem w dowolnym układzie współrzędnych.
+</Text>
+</M06S04S01>
+<M06S05S01>
+<Title>Zadanie 4
+</Title>
+<Text>Wykonaj zadanie 4. Gdy ukońcysz zadanie potwierdź je przyciskiem potwierdzenia kroku.
+
+Stwórz nowy program o dowolnej nazwie i naucz dowolną trajektorię składającą się z 3 punktów. Uruchom program w trybie krokowym STEP MODE.
+</Text>
+</M06S05S01>
+<M06S06S01>
+<Title>Zadanie 5 
+</Title>
+<Text>Wykonaj zadanie 5. Gdy ukońcysz zadanie potwierdź je przyciskiem potwierdzenia kroku.
+
+Stwórz program do pobierania i odkładania palety. Uruchom go w trybie ręcznym ciągłym.
+</Text>
+</M06S06S01>
+<M06S07S01>
+<Title>Wyniki
+</Title>
+<Text>Twoje wyniki to:
+</Text>
+</M06S07S01>
+</texts>

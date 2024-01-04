@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: cd9916b438628f14eb97c09bce2c3904
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Barecast
+  fontNames:
+  - Barecast
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 153b96a25d26f034b9a6d73c8575da93, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

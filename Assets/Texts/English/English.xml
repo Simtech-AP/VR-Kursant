@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body>
+<steps>
+<M01S01S01>
+<Title>Welcome to Module 1</Title>
+<Text>
+# Touch your trackpad on your controller with your thumb to activate it.
+# Confirm the execution of the step by pressing green Next Step button. 
+</Text>
+</M01S01S01>
+<M01S01S02>
+<Title>VR Technology</Title>
+<Text>
+# Take a closer look at highlighted objects located around you.
+</Text>
+</M01S01S02>
+<M01S01S03>
+<Title>VR Technology</Title>
+<Text>
+# Bring your hand to the wooden crate.
+# Push trigger or trackpad and transfer wooden crate to the floor.
+</Text>
+</M01S01S03>
+<M01S01S04>
+<Title>VR Technology</Title>
+<Text>
+# Touch highlighted buttons on your teachpendant.
+</Text>
+</M01S01S04>
+<M01S01S05>
+<Title>Module 1 completed</Title>
+<Text>
+# Wait for your coach.
+</Text>
+</M01S01S05>
+<M02S01S01>
+<Title>Welcome to the Module 2</Title>
+<Text>
+# Go to the next step when you finish listening to audio intructions.
+</Text>
+</M02S01S01>
+<M02S01S02>
+<Title>Safety at work</Title>
+<Text>
+# Locate entry safety gate.
+</Text>
+</M02S01S02>
+<M02S01S03>
+<Title>Safety at work</Title>
+<Text>
+# Locate control panel.
+</Text>
+</M02S01S03>
+<M02S01S04>
+<Title>Safety at work</Title>
+<Text>
+# Locate light column.
+</Text>
+</M02S01S04>
+<M02S01S05>
+<Title>Safety at work</Title>
+<Text>
+# Locate robot's cabinet.
+</Text>
+</M02S01S05>
+<M02S01S06>
+<Title>Safety at work</Title>
+<Text>
+# Locate a crate with safety padlock.
+</Text>
+</M02S01S06>
+<M02S01S07>
+<Title>Safety at work</Title>
+<Text>
+# Locate emergency stop (E-Stop) button on robot cabinet.
+# Locate E-Stop button near the door.
+# Locate E-Stop at the robot controller in your hand.
+</Text>
+</M02S01S07>
+<M02S02S01>
+<Title>E-STOP</Title>
+<Text>
+# Press any of E-Stop buttons.
+# Pay attention to the robot state, is it moving?
+</Text>
+</M02S02S01>
+<M02S02S02>
+<Title>E-STOP</Title>
+<Text>
+# Check the status of lights on control panel.
+# Check the status of lights on light column.
+# Check the status of lights on a cassette near the safety gate.
+</Text>
+</M02S02S02>
+<M02S02S03>
+<Title>E-STOP</Title>
+<Text>
+# Pull up all pushed E-Stop buttons.
+</Text>
+</M02S02S03>
+<M02S02S04>
+<Title>E-STOP</Title>
+<Text>
+# Confirm alarms related to the cell safety with SAFETY RESET button.
+</Text>
+</M02S02S04>
+<M02S02S05>
+<Title>E-STOP</Title>
+<Text>
+# Confirm other, non-safety related alarms with ALARM RESET button.
+</Text>
+</M02S02S05>
+<M02S02S06>
+<Title>E-STOP</Title>
+<Text>
+# Turn on automatic mode of the robotised cell with a START button.
+</Text>
+</M02S02S06>
+<M02S03S01>
+<Title>Cell Safety</Title>
+<Text>
+# Stop production with STOP button. 
+# Make sure that robot was stopped.
+</Text>
+</M02S03S01>
+<M02S03S02>
+<Title>Cell Safety</Title>
+<Text>
+# Turn the key in the key switch to the T1 mode.
+</Text>
+</M02S03S02>
+<M02S03S03>
+<Title>Cell Safety</Title>
+<Text>
+# Put a safety cap on your head.
+</Text>
+</M02S03S03>
+<M02S03S04>
+<Title>Cell Safety</Title>
+<Text>
+# Open entry gate.
+</Text>
+</M02S03S04>
+<M02S03S05>
+<Title>Cell Safety</Title>
+<Text>
+# Take a padlock from a Lock Box placed on a robot cabinet.
+# Put a padlock on a entry gate lock.
+</Text>
+</M02S03S05>
+<M02S03S06>
+<Title>Cell Safety</Title>
+<Text>
+# Press the "Teleport" button to place yourself inside a cell.
+</Text>
+</M02S03S06>
+<M02S03S07>
+<Title>Module 2 completed</Title>
+<Text>
+# Wait for a coach.
+</Text>
+</M02S03S07>
+<M03S01S01>
+<Title>Welcome to the Module 3</Title>
+<Text>
+# Go to the next step when you finish listening to audio intructions.
+</Text>
+</M03S01S01>
+<M03S01S02>
+<Title>Deadman's switch</Title>
+<Text>
+# Check how the deadman's trigger works. 
+# Press ACK button on keyboard to go to the next step.
+</Text>
+</M03S01S02>
+<M03S01S03>
+<Title>Deadman's switch</Title>
+<Text>
+# Press and hold one of deadman's trigger
+# Confirm pressing the deadman's trigger by pressing RESET button on the keyboard.
+</Text>
+</M03S01S03>
+<M03S02S01>
+<Title>Articulated movement</Title>
+<Text>
+# Press COORD button to change coordinate system.
+</Text>
+</M03S02S01>
+<M03S02S02>
+<Title>Articulated movement</Title>
+<Text>
+# Change coordinate system to JOINT with COORD button.
+</Text>
+</M03S02S02>
+<M03S02S03>
+<Title>Articulated movement</Title>
+<Text>
+# Press and hold deadman's trigger.
+# Delete all the alarms by pressing RESET button.
+# Move robot on the 1st axis with J1- and J1+ buttons.
+</Text>
+</M03S02S03>
+<M03S02S04>
+<Title>Articulated movement</Title>
+<Text>
+# Move robot on the 2nd axis with J2- and J2+ buttons.
+# Move robot on the 3rd axis with J3- and J3+ buttons.
+# Move robot on the 4th axis with J4- and J4+ buttons.
+# Move robot on the 5th axis with J5- and J5+ buttons.
+# Move robot on the 6th axis with J6- and J6+ buttons.
+</Text>
+</M03S02S04>
+<M03S03S01>
+<Title>Axis limits</Title>
+<Text>
+# Try to move any of robot axis to reach the limit.
+</Text>
+</M03S03S01>
+<M03S03S02>
+<Title>Axis limits</Title>
+<Text>
+# Press the reset button to delete an error.
+# Move the axis in the direction opposite to the limit.
+</Text>
+</M03S03S02>
+<M03S04S01>
+<Title>Linear movement</Title>
+<Text>
+# Choose BASE mode with COORD button.
+</Text>
+</M03S04S01>
+<M03S04S02>
+<Title>Linear movement</Title>
+<Text>
+# Move robot gripper with X- and X+ buttons.
+</Text>
+</M03S04S02>
+<M03S04S03>
+<Title>Linear movement</Title>
+<Text>
+# Move robot gripper with Y- and Y+ buttons.
+</Text>
+</M03S04S03>
+<M03S04S04>
+<Title>Linear movement</Title>
+<Text>
+# Move robot gripper with Z- and Z+ buttons.
+</Text>
+</M03S04S04>
+<M03S04S05>
+<Title>Linear movement</Title>
+<Text>
+# Rotate robot in relation to the X axis with Rx- or Rx+ buttons.
+</Text>
+</M03S04S05>
+<M03S04S06>
+<Title>Linear movement</Title>
+<Text>
+# Rotate robot in relation to the Y axis with Ry- or Ry+ buttons.
+# Rotate robot in relation to the Z axis with Rz- or Rz+ buttons.
+</Text>
+</M03S04S06>
+<M03S04S07>
+<Title>Module 3 completed</Title>
+<Text>
+# Wait for a coach.
+</Text>
+</M03S04S07>
+<M04S01S01>
+<Title>Welcome to the Module 4</Title>
+<Text>
+# Go to the next step when you finish listening to audio intructions.
+</Text>
+</M04S01S01>
+<M04S01S02>
+<Title>Simple paletization</Title>
+<Text>
+# Close the gripper with TOOL ON button. 
+# Open the gripper with TOOL OFF button. 
+# Leave the gripper open.
+</Text>
+</M04S01S02>
+<M04S01S03>
+<Title>Simple paletization</Title>
+<Text>
+# Choose JOINT movement mode with COORD button.
+# Place robot gripper in marked zone above the pallet.
+# Place the gripper with it's jaws pointing to the ground .
+</Text>
+</M04S01S03>
+<M04S01S04>
+<Title>Simple paletization</Title>
+<Text>
+# Choose BASE movement mode with COORD button. 
+# By pressing Z- button place the gripper in position to collect a pallet .
+</Text>
+</M04S01S04>
+<M04S01S05>
+<Title>Simple paletization</Title>
+<Text>
+# Close the gripper with TOOL ON button.
+</Text>
+</M04S01S05>
+<M04S01S06>
+<Title>Simple paletization</Title>
+<Text>
+# By pressing Z+ button place your gripper above conveyor.
+</Text>
+</M04S01S06>
+<M04S01S07>
+<Title>Simple paletization</Title>
+<Text>
+# Change the movement mode to JOINT with COORD button.
+# Place the pallet above another conveyor by holding J1- button.
+</Text>
+</M04S01S07>
+<M04S01S08>
+<Title>Simple paletization</Title>
+<Text>
+# Change the movement mode to BASE with COORD button. 
+# Place the pallet gently on the conveyor by pressing Z- button.
+</Text>
+</M04S01S08>
+<M04S01S09>
+<Title>Simple paletization</Title>
+<Text>
+# Open the gripper with TOOL OFF button. 
+# By pressing Z+ button place your gripper above conveyor.
+</Text>
+</M04S01S09>
+<M04S01S10>
+<Title>Simple paletization</Title>
+<Text>
+# Place the robot in the highlighted spot.
+</Text>
+</M04S01S10>
+<M04S01S11>
+<Title>Module 4 completed</Title>
+<Text>
+# Wait for a coach.
+</Text>
+</M04S01S11>
+<M05S01S01>
+<Title>Welcome to the fifth module</Title>
+<Text>
+# Go to the next step when you finish listening to audio intructions.
+</Text>
+</M05S01S01>
+<M05S01S02>
+<Title>Simple program</Title>
+<Text>
+# Press MENU button on keyboard then select: "PROGRAM" -> "NEW". Confirm your action with "ENTER" button.
+# Highlight "NAME" option then press KEYBOARD button to name the program. Close keyboard by pressing ENTER.
+</Text>
+</M05S01S02>
+<M05S01S03>
+<Title>Simple program</Title>
+<Text>
+# Insert an articulated point. Press MENU that select "INSERT POINT" -> "J-JOINT".
+</Text>
+</M05S01S03>
+<M05S01S04>
+<Title>Simple program</Title>
+<Text>
+# Insert 3 empty lines beneath by pressing MENU -> "EDIT" -> "INSERT LINES BELOW". Insert value 3, press OK then ENTER.
+</Text>
+</M05S01S04>
+<M05S01S05>
+<Title>Simple program</Title>
+<Text>
+# Change robot movement speed to 80% with SPEED UP and SPEED DOWN buttons.
+# Change robot position manually.
+</Text>
+</M05S01S05>
+<M05S01S06>
+<Title>Simple program</Title>
+<Text>
+# Set a cursor in an empty line and insert linear point. Press MENU -> "INSERT POINT" -> "L - LINEAR". 
+</Text>
+</M05S01S06>
+<M05S01S07>
+<Title>Simple program</Title>
+<Text>
+# Move robot arm as far as you want.
+# Set a cursor in the next empty line and insert linear point. Press MENU -> "INSERT POINT" -> "L - LINEAR".
+</Text>
+</M05S01S07>
+<M05S01S08>
+<Title>Simple program</Title>
+<Text>
+# Copy first line. Press MENU -> "EDIT" -> "COPY".
+# Paste the line in last empty line . Press MENU -> "EDIT" -> "PASTE".
+</Text>
+</M05S01S08>
+<M05S01S09>
+<Title>Simple program</Title>
+<Text>
+# Tune down robot movement speed to 50% with SPEED DOWN button.
+# Turn on step mode with STEP MODE button.
+</Text>
+</M05S01S09>
+<M05S01S10>
+<Title>Simple program</Title>
+<Text>
+# Press and hold deadman's trigger  then confirm with RESET button to unlock robot drivers.
+#  While in step mode press PLAY button to start a program.
+</Text>
+</M05S01S10>
+<M05S01S11>
+<Title>Simple program</Title>
+<Text>
+# While in step mode press PLAY to start next line of program.
+</Text>
+</M05S01S11>
+<M05S01S12>
+<Title>Simple program</Title>
+<Text>
+# Continue program execution in step mode to the last line.
+</Text>
+</M05S01S12>
+<M05S02S01>
+<Title>Simple program - continuous mode</Title>
+<Text>
+# Disable step mode with STEP MODE button.
+# Press PLAY to start the program.
+</Text>
+</M05S02S01>
+<M05S02S02>
+<Title>Simple program - continuous mode</Title>
+<Text>
+# While in continuous mode start the program with PLAY button.
+# With SPEED DOWN and SPEED UP buttons adjust robot movement speed while robot is moving.
+</Text>
+</M05S02S02>
+<M05S02S03>
+<Title>Simple program - continuous mode</Title>
+<Text>
+# While in continuous mode start the program one more time with PLAY button. 
+# Press STOP while robot is moving.
+# Resume robot movement with PLAY button and wait for the end of the program.
+</Text>
+</M05S02S03>
+<M05S02S04>
+<Title>Simple program - continuous mode</Title>
+<Text>
+# Move the cursor to the third line of the program.
+# To move robot to the marked point press MOVE TO.
+</Text>
+</M05S02S04>
+<M05S02S05>
+<Title>Simple program - continuous mode</Title>
+<Text>
+# Move cursor to the first line and press MOVE TO.
+</Text>
+</M05S02S05>
+<M05S03S01>
+<Title>Point parametrisation</Title>
+<Text>
+# Place cursor in the second line.
+# With left and right arrows highlight a value on the right side of the APX symbol.
+# Change the APX value to 10.
+</Text>
+</M05S03S01>
+<M05S03S02>
+<Title>Point parametrisation</Title>
+<Text>
+# Place your cursor in the 3rd line. 
+# With left and right arrows highlight value on the right side of the SPD symbol.
+# Change it to 500mm/s if it's linear point. If it's articulated point change it to 45%.
+</Text>
+</M05S03S02>
+<M05S03S03>
+<Title>Point parametrisation</Title>
+<Text>
+# Move a robot in any manner.
+# Place a cursor on the last line and ovverride coordinates of the point with REC button.
+</Text>
+</M05S03S03>
+<M05S03S04>
+<Title>Point parametrisation</Title>
+<Text>
+# Place your cursor in the second line.
+# Highlight "L" letter with arrows.
+# Press enter to change the point from linear to articualted.
+</Text>
+</M05S03S04>
+<M05S03S05>
+<Title>Point parametrisation</Title>
+<Text>
+# While in continuous mode, start a robot program with PLAY button.
+</Text>
+</M05S03S05>
+<M05S04S01>
+<Title>Backup</Title>
+<Text>
+# Press MENU -> "PROGRAM" -> "DUPLICATE..."
+# Select the target program by clicking ENTER, enter a name in the window, e.g. TEST5 and confirm.  
+</Text>
+</M05S04S01>
+<M05S04S02>
+<Title>Backup</Title>
+<Text>
+# Press MENU -> "PROGRAM" -> "REMOVE…" than choose a rogram to remove.
+# Confirm with ENTER button.
+</Text>
+</M05S04S02>
+<M05S05S01>
+<Title>Advanced palletization </Title>
+<Text>
+# Press MENU, "PROGRAM" -> "NEW".
+# Press KEYBOARD and insert a name PALLET1. Confirm with ENTER.
+</Text>
+</M05S05S01>
+<M05S05S02>
+<Title>Advanced palletization </Title>
+<Text>
+# Insert articulated point. Press MENU, "INSERT POINT" -> "J - JOINT". 
+# Change APX value to 10.
+</Text>
+</M05S05S02>
+<M05S05S03>
+<Title>Advanced palletization </Title>
+<Text>
+# Insert 10 empty lines. Press MENU, "EDIT" -> "INSERT LINES BELOW".
+</Text>
+</M05S05S03>
+<M05S05S04>
+<Title>Advanced palletization </Title>
+<Text>
+#Change to JOINT movement with COORD button.
+# Place a gripper over a pallet.
+# Set gripper vertically down to the pallet direction.
+</Text>
+</M05S05S04>
+<M05S05S05>
+<Title>Advanced palletization </Title>
+<Text>
+# Insert new point. Press MENU, "INSERT POINT" -> "J - JOINT".
+</Text>
+</M05S05S05>
+<M05S05S06>
+<Title>Advanced palletization </Title>
+<Text>
+# Change to BASE coordination system with COORD button.
+# By pressing Z- and Z+ place a robot in a position to grab palette in a way that gripper jaws will be placed between pallet's boards.
+</Text>
+</M05S05S06>
+<M05S05S07>
+<Title>Advanced palletization </Title>
+<Text>
+# Insert new point. Press MENU, "INSERT POINT" -> "L - LINEAR".
+# Change aproach speed - SPD - to 500mm/s.
+# Change APX (approximation) to 0.
+</Text>
+</M05S05S07>
+<M05S05S08>
+<Title>Advanced palletization </Title>
+<Text>
+# Press TOOL ON to close a gripper.
+# Add instruction that close a Gripper. Press MENU, "INSTRUCTIONS" -> "TOOL ON".
+</Text>
+</M05S05S08>
+<M05S05S09>
+<Title>Advanced palletization </Title>
+<Text>
+# Press COORD to switch to BASE.
+# Press Z+ and lift a pallet into the highlighted area.
+</Text>
+</M05S05S09>
+<M05S05S10>
+<Title>Advanced palletization </Title>
+<Text>
+# Create new point. Press MENU, "INSERT POINT" -> "L - LINEAR".
+# Change speed SPD to 500mm/s.
+# Change approximation APX to 50.
+</Text>
+</M05S05S10>
+<M05S05S11>
+<Title>Advanced palletization </Title>
+<Text>
+# Press COORD and change movement to JOINT.
+# With J1- change a robot position, to the point where it's halfway between conveyors, front to you.
+# Save the point in an empty line. Press MENU, "INSERT POINT" -> "J - JOINT".
+</Text>
+</M05S05S11>
+<M05S05S12>
+<Title>Advanced palletization </Title>
+<Text>
+# Change to JOINT movement with COORD button.
+# With J1- change robot's position to the point where it's over the second conveyor.
+# Save current position. Press MENU, "INSERT POINT" - "J - JOINT". 
+# Change SPD to 100% 
+# Change approximation APX to 20.
+</Text>
+</M05S05S12>
+<M05S05S13>
+<Title>Advanced palletization </Title>
+<Text>
+# Go to BASE with COORD button.
+# With Z- button place robot in a way that pallet should be gently touching a conveyor.
+</Text>
+</M05S05S13>
+<M05S05S14>
+<Title>Advanced palletization </Title>
+<Text>
+# Save current position. Press MENU, "POINT" -> "L - LINEAR".
+# Change SPD to 500mm/s.
+# Change approximation APX to 0.
+</Text>
+</M05S05S14>
+<M05S05S15>
+<Title>Advanced palletization </Title>
+<Text>
+# Press TOOL OFF to open the gripper.
+# Add instruction that opens the gripper. Press MENU, "INSTRUCTIONS" -> "TOOL OFF".
+</Text>
+</M05S05S15>
+<M05S05S16>
+<Title>Advanced palletization </Title>
+<Text>
+# Go to BASE with COORD button.
+# Press Z+ and move horizontally up.
+# Save currrent robot position. Press MENU, "INSERT POINT" -> "L - LINEAR".
+</Text>
+</M05S05S16>
+<M05S05S17>
+<Title>Advanced palletization </Title>
+<Text>
+# Place a cursor on the first line and copy the point. Press MENU, "EDIT" -> "COPY".  
+# Place a cursor on an empty line and paste a point. Press MENU, "EDIT" -> "PASTE".
+</Text>
+</M05S05S17>
+<M05S05S18>
+<Title>Advanced palletization </Title>
+<Text>
+# Set the robot's key switch to T1 mode.
+# Make sure that continuous mode is on.
+# Unlock a robot nad start the program with PLAY button.
+</Text>
+</M05S05S18>
+<M05S05S19>
+<Title>Advanced palletization </Title>
+<Text>
+# Leave a cell and set the robot's key switch to T2 mode.
+# Execute the program with PLAY button.
+</Text>
+</M05S05S19>
+<M05S05S20>
+<Title>Module 5 completed</Title>
+<Text>
+# Wait for the coach.
+</Text>
+</M05S05S20>
+<M06S01S01>
+<Title>Exam</Title>
+<Text>
+Complete the tasks according to the knowledge you have acquired during the training. Press the confirmation button to start the exam. Good luck!
+</Text>
+</M06S01S01>
+<M06S02S01>
+<Title>Exercise 1</Title>
+<Text>
+Complete task 1. When you have completed the task, confirm it with the step confirmation button.
+
+Stop production at the robotic station and go inside the station.
+</Text>
+</M06S02S01>
+<M06S03S01>
+<Title>Exercise 2</Title>
+<Text>
+Complete task 2. When you have completed the task, confirm it with the step confirmation button.
+
+Resume production. Start the robot in automatic mode.
+</Text>
+</M06S03S01>
+<M06S04S01>
+<Title>Exercise 3</Title>
+<Text>
+Complete task 3. When you have completed the task, confirm it with the step confirmation button.
+
+Find the cause of the error and remove it. Then perform any movement with the robot in manual mode.
+</Text>
+</M06S04S01>
+<M06S05S01>
+<Title>Exercise 4</Title>
+<Text>
+Complete task 4. When you have completed the task, confirm it with the step confirmation button.
+
+Create a new program with any name and teach any trajectory consisting of 3 points. Run the program in STEP MODE.
+</Text>
+</M06S05S01>
+<M06S06S01>
+<Title>Exercise 5</Title>
+<Text>
+Complete task 5. When you have completed the task, confirm it with the step confirmation button.
+
+Create a program to pick and put away the pallet. Run it in continuous manual mode.
+</Text>
+</M06S06S01>
+<M06S07S01>
+<Title>Exam Results</Title>
+<Text>
+Your Scores:
+</Text>
+</M06S07S01>
+</steps>
+<hints>
+<Casette>
+<EStop>
+<Title>E-Stop</Title>
+<Text>Emergency Button. Halts all processes.</Text>
+</EStop>
+<YellowLamp>
+<Title>Entry request</Title>
+<Text>Safely stops the robot at the end of execution cycle.</Text>
+</YellowLamp>
+<RedLamp>
+<Title>Error</Title>
+<Text>Indicates station error.</Text>
+</RedLamp>
+<GreenLamp>
+<Title>Start</Title>
+<Text>Indicates that the robot is working in automatic mode.</Text>
+</GreenLamp>
+</Casette>
+<Cabinet>
+<PowerKnob>
+<Title>Main Switch</Title>
+<Text>Robot cabinet Main Switch.</Text>
+</PowerKnob>
+<Key>
+<Title>Robot Modes Switch</Title>
+<Text>Choose robot mode – T1, T2 or Auto.</Text>
+</Key>
+<BlueLamp>
+<Title>Reset Lamp</Title>
+<Text>Reset Faults Button.</Text>
+</BlueLamp>
+<GreenLamp>
+<Title>Drives Status</Title>
+<Text>Indicates that robot drives are unlocked.</Text>
+</GreenLamp>
+<FaultLamp>
+<Title>Fault</Title>
+<Text>Indicates robot error.</Text>
+</FaultLamp>
+<PowerLamp>
+<Title>Power supply</Title>
+<Text>Power supply indicator.</Text>
+</PowerLamp>
+<EStop>
+<Title>E-Stop</Title>
+<Text>Emergency Button. Halts all processes.</Text>
+</EStop>
+</Cabinet>
+<Pendant>
+<StatusBar>
+<Title>Status Bar</Title>
+<Text>Displays robot status messages.</Text>
+</StatusBar>
+<EStop>
+<Title>E-Stop</Title>
+<Text>Emergency Button. Halts all processes.</Text>
+</EStop>
+<Indicators>
+<Title>Lamps</Title>
+<Text>Robot's motors status.</Text>
+</Indicators>
+</Pendant>
+<Console>
+<Start>
+<Title>Start</Title>
+<Text>Start production.</Text>
+</Start>
+</Console>
+<Pendant>
+<MoveSection>
+<Title>Przyciski ruchu</Title>
+<Text> </Text>
+</MoveSection>
+<SpeedChange>
+<Title>Speed Up / Down</Title>
+<Text> </Text>
+</SpeedChange>
+<Help>
+<Title>Help</Title>
+<Text>Replay the lector.</Text>
+</Help>
+<Coord>
+<Title>Coord</Title>
+<Text> </Text>
+</Coord>
+<Deadman>
+<Title>Deadman</Title>
+<Text> </Text>
+</Deadman>
+<Ack>
+<Title>Acknowledge</Title>
+<Text> </Text>
+</Ack>
+<Reset>
+<Title>Reset</Title>
+<Text> </Text>
+</Reset>
+<ToolSection>
+<Title>Tool ON / OFF</Title>
+<Text> </Text>
+</ToolSection>
+<Menu>
+<Title>Menu</Title>
+<Text> </Text>
+</Menu>
+<StepMode>
+<Title>Step / Normal</Title>
+<Text> </Text>
+</StepMode>
+<MoveTo>
+<Title>Move To</Title>
+<Text> </Text>
+</MoveTo>
+<Rec>
+<Title>Record</Title>
+<Text> </Text>
+</Rec>
+<RobotControl>
+<Title>Play / Stop</Title>
+<Text> </Text>
+</RobotControl>
+<Enter>
+<Title>Enter</Title>
+<Text> </Text>
+</Enter>
+<Keyboard>
+<Title>Keyboard</Title>
+<Text> </Text>
+</Keyboard>
+<Prev>
+<Title>Backspace</Title>
+<Text> </Text>
+</Prev>
+<ProgramList>
+<Title>Program List</Title>
+<Text> </Text>
+</ProgramList>
+<ScreenStepIndicator>
+<Title>Movement mode indicator</Title>
+<Text> </Text>
+</ScreenStepIndicator>
+<ScreenSpeedIndicator>
+<Title>Speed Indicator</Title>
+<Text> </Text>
+</ScreenSpeedIndicator>
+<ScreenCoordIndicator>
+<Title>Coordinate system indicator</Title>
+<Text> </Text>
+</ScreenCoordIndicator>
+</Pendant>
+<Console>
+<Stop>
+<Title>Stop</Title>
+<Text>Safely stop production.</Text>
+</Stop>
+<SafetyReset>
+<Title>Safety Reset</Title>
+<Text>Confirm safety errors reset.</Text>
+</SafetyReset>
+<AlarmsReset>
+<Title>Alarms Reset</Title>
+<Text>Confirm alarm errors reset.</Text>
+</AlarmsReset>
+</Console>
+</hints>
+</body>
